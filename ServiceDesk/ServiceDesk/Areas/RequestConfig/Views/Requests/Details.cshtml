@@ -1,0 +1,257 @@
+﻿@model ServiceDesk.Models.ViewModels.RequestViewModel
+@using ServiceDesk.Utilities
+
+
+
+<form method="get" enctype="multipart/form-data" asp-action="Details">
+    <div class="p-3 mt-3 border rounded">
+
+
+        @*Row 1*@
+
+        <div class="form-row p-1 m-1 border rounded">
+            <div class="form-group col-2">
+                <div>
+                    <label asp-for="@Model.Request.Id">Request no.</label>
+                </div>
+                <div>
+                    <input asp-for="@Model.Request.Id" readonly class="form-control col-6" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div>
+                    <label asp-for="@Model.Request.Status"></label>
+                </div>
+                <div>
+                    <select asp-for="@Model.Request.Status" asp-items="@new SelectList(Enum.GetNames(typeof(RequestStatus)))" class="form-control" disabled></select>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        @*Row 2*@
+
+        @*Col 1*@
+        <div class="form-group row">
+            <div class="col-3">
+                <div class="col-5">
+                    <input type="hidden" asp-for="@Model.Request.RequestorId" />
+                </div>
+
+
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.Requestor.Name">Requestor</label>
+                    </div>
+                    <div>
+                        <input asp-for="@Model.Request.Requestor.Name" disabled class="form-control" />
+                    </div>
+                </div>
+
+
+
+
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.Team.Name">Team</label>
+                    </div>
+                    <div>
+                        <select id="teamID" asp-for="@Model.Request.TeamId" asp-items="Model.Teams.ToSelectListItem(Model.Request.TeamId)" class="form-control" disabled></select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.Classification.Name">Category</label>
+                    </div>
+                    <div>
+                        <select id="classID" asp-for="@Model.Request.ClassificationId" asp-items="Model.Classifications.ToSelectListItem(Model.Request.ClassificationId)" class="form-control" disabled></select>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.Assignee.Name">Assignee</label>
+                    </div>
+
+                    @if (Model.Request.AssigneeId == null)
+                    {
+                        <div>
+                            <select id="assigneeID" asp-for="@Model.Request.AssigneeId" asp-items="Model.Assignees.ToSelectListItemString(Model.Request.AssigneeId)" class="form-control" disabled>
+                                <option></option>
+                            </select>
+                        </div>
+                    }
+                    else
+                    {
+                        <div>
+                            <select id="assigneeID" asp-for="@Model.Request.AssigneeId" asp-items="Model.Assignees.ToSelectListItemString(Model.Request.AssigneeId)" class="form-control" disabled></select>
+                        </div>
+                    }
+
+                </div>
+
+                <div class="form-group">
+                    <div>
+                        <input type="hidden" asp-for="@Model.Request.AssigneeId" class="form-control" />
+                    </div>
+                </div>
+
+
+
+
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.SubmitDate">Submit date</label>
+                    </div>
+                    <div>
+                        <input asp-for="@Model.Request.SubmitDate" readonly class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <label asp-for="@Model.Request.ClosedDate">Close date</label>
+                    </div>
+                    <div>
+                        <input asp-for="@Model.Request.ClosedDate" readonly class="form-control" />
+                    </div>
+
+                </div>
+
+
+            </div>
+
+            @*Col 2 Row 1*@
+
+            <div class="col-6">
+
+
+
+                <div class="form-group row">
+                    <label class="h6 pl-4">Description</label>
+                    <div class="col-12">
+                        <input asp-for="@Model.Request.Title" readonly class="form-control" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-12">
+                        <textarea asp-for="@Model.Request.Content" readonly class="form-control" rows="6"></textarea>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+                @*Col 2 row 2*@
+
+                <table class="table">
+
+                    <thead>
+                        <tr>
+
+                            <th>
+                                @Html.DisplayNameFor(model => model.RequestNote.Date)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.RequestNote.NoteUser)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.RequestNote.Content)
+                            </th>
+                        </tr>
+                    </thead>
+
+
+                    @foreach (var item in Model.RequestNotes)
+                    {
+                        <tr>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Date)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.NoteUser.Name)
+                            </td>
+                            <td>
+                                <textarea asp-for="@item.Content" class="form-control" rows="8" disabled></textarea>
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+
+
+            </div>
+
+
+            @*Col 3*@
+
+            <div class="col-3">
+
+                <table class="table .table-borderless">
+
+                    @foreach (var item in Model.Images)
+                    {
+                        <tr>
+                            <td>
+                                <div class="modal fade bd-example-modal-lg show" id="@item.Name" role="dialog">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <h5 class="modal-title">@item.Name</h5>
+                                                <button type="button" class="close" data-dismiss="modal">
+                                                    <span aria-hidden="true">&times;</span>
+                                                </button>
+                                            </div>
+                                            <div class="modal-body" id="dynamic-content">
+                                                <img src="~/images/screens/@item.Name" class="img-fluid" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <a href="#@item.Name" data-toggle="modal"><img src="~/images/screens/@item.Name" width="100%" style="border-radius:5px; border:1px solid #bbb9b9;" /></a>
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </table>
+
+            </div>
+
+        </div>
+
+
+        @*ROw 3*@
+        <br />
+        <div class="form-group row">
+            <a asp-action="Index" class="btn btn-outline-primary mr-2">Back to List</a>
+        </div>
+    </div>
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+@section Scripts{
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+
+}

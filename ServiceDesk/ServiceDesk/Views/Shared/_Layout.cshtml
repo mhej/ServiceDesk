@@ -1,0 +1,147 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+<!DOCTYPE html>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ServiceDesk</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/jquery-ui.css" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+        <link rel="stylesheet" href="~/css/jquery-ui.css" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+
+    </environment>
+</head>
+
+
+<body>
+
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+        <a class="navbar-brand" href="#">Service Desk</a>
+        <div class="collapse navbar-collapse">
+
+            <ul class="navbar-nav mr-auto">
+                @if (User.IsInRole("SuperAdmin"))
+                {
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Users
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="AdminUsers" asp-action="Index">Users list</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="AdminUsers" asp-action="Create">Create user</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Teams
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Team" asp-action="Index">Teams list</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Team" asp-action="Create">Create team</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Request categories
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Classification" asp-action="Index">Categories list</a>
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" asp-area="Admin" asp-controller="Classification" asp-action="Create">Create category</a>
+                        </div>
+                    </li>
+                }
+
+                <li class="nav-item"><a class="nav-link" asp-area="RequestConfig" asp-controller="Requests" asp-action="Create">Create request</a></li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Requests
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @if (User.IsInRole("Requestor"))
+                        {
+                            <a class="dropdown-item disabled" href="#">All requests</a>
+                            <a class="dropdown-item disabled" href="#">Requests assigned to me</a>
+                        }
+                        else
+                        {
+                            <a class="dropdown-item" asp-area="RequestConfig" asp-controller="Requests" asp-action="Index">All requests</a>
+                            <a class="dropdown-item" asp-area="RequestConfig" asp-controller="Requests" asp-action="IndexRequestsAssignedToUser">Requests assigned to me</a>
+                        }
+
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" asp-area="RequestConfig" asp-controller="Requests" asp-action="IndexRequestsSubmittedByUser">Requests submitted by me</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        My Profile
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" asp-area="Login" asp-controller="ChangePassword" asp-action="ChangePassword">Change Password</a>
+                        <div class="dropdown-divider"></div>
+                        <form asp-area="Login" asp-controller="Login" asp-action="Logout" id="logoutForm"
+                              method="post">
+
+                            <a class="dropdown-item" href="javascript:document.getElementById('logoutForm').submit()">Log out</a>
+
+                        </form>
+
+
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+        @*<div>
+                <partial name="_LoginPartial" />
+            </div>*@
+    </nav>
+
+    @*<partial name="_CookieConsentPartial" />*@
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2019 - ServiceDesk</p>
+        </footer>
+    </div>
+
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/jquery-ui.js" asp-append-version="true"></script>
+
+    </environment>
+    <environment exclude="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/jquery-ui.js" asp-append-version="true"></script>
+
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

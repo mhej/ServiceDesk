@@ -1,0 +1,52 @@
+﻿
+body, html {
+    height: 100%;
+    /* The image used */
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    /* Full height 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+/*body {
+    padding: 0;
+    margin: 0;
+    background-image: url('../images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.6);
+}
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.2);
+}*/
+
+
+
+/*.navbar {
+    height: 0;
+    background: #6ab446;
+}*/
+/*header style*/
+/*.login {
+    padding: 0;
+    margin: 0;
+    background-image: url('../images/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}*/

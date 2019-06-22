@@ -1,0 +1,205 @@
+﻿@model RequestsListViewModel
+
+
+
+@{
+    ViewData["Title"] = "List of requests";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <br />
+    <p class="text-secondary small">Search criteria</p>
+
+    <form asp-action="Index" method="post" role="form">
+
+        <div class="form-group row">
+            <div class="col-3">
+                <input asp-for="SearchTitle" class="form-control" placeholder="Title" />
+
+            </div>
+
+            <div class="col-3">
+
+                <input asp-for="SearchClassification" class="form-control" placeholder="Category" />
+
+            </div>
+
+            <div class="col-3">
+
+                <input asp-for="SearchTeam" class="form-control" placeholder="Team" />
+
+            </div>
+
+            <div class="col-3">
+
+                <select asp-for="SearchStatus" asp-items="@new SelectList(Enum.GetNames(typeof(RequestStatus)))" class="form-control">
+                    <option selected disabled class="text-hide">Status</option>
+                </select>
+
+            </div>
+
+        </div>
+
+        <div class="form-group row">
+            <div class="col-3">
+
+                <input asp-for="SearchRequestor" class="form-control" placeholder="Requestor" />
+
+            </div>
+            <div class="col-3">
+
+                <input asp-for="SearchAssignee" class="form-control" placeholder="Assignee" />
+
+            </div>
+
+            <div class="col-3">
+
+                <input asp-for="SearchSubmitDateFrom" type="text" class="form-control" id="datepickerFrom" placeholder="From submit date" />
+
+            </div>
+
+            <div class="col-3">
+
+                <input asp-for="SearchSubmitDateTo" type="text" class="form-control" id="datepickerTo" placeholder="To submit date" />
+
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-auto">
+                <input type="submit" class="btn btn-outline-dark" value="Search" />
+            </div>
+        </div>
+
+
+    </form>
+
+
+
+    <table class="table table-striped table-hover table-sm border">
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    Request#
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Status)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().SubmitDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().ClosedDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Team)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Classification)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Requestor)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Requests.FirstOrDefault().Assignee)
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Requests)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Status)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SubmitDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClosedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Team.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Classification.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Requestor.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Assignee.Name)
+                    </td>
+                    <td style="width:150px">
+
+                        @if (User.IsInRole("SuperAdmin"))
+                        {
+                            <div class="btn-group btn-group-sm" role="group">
+                                <a class="btn btn-outline-secondary" role="button" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="btn-group btn-group-sm" role="group">
+                                <a class="btn btn-outline-secondary" role="button" asp-action="Details" asp-route-id="@item.Id">View</a>
+                            </div>
+                        }
+
+
+                    </td>
+
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div page-model="@Model.PagingInfo" page-action="IndexRequestsSubmittedByUser" page-classes-enabled="true"
+         page-class="btn btn-outline-secondary" page-class-normal="btn btn-secondary"
+         page-class-selected="btn btn-secondary active" class="btn-group btn-group-sm m-1"></div>
+
+
+
+
+    @section Scripts{
+        <script>
+
+            $(function () {
+                $("#datepickerTo").datepicker({ dateFormat: 'yy-mm-dd' });
+                $("#datepickerFrom").datepicker({ dateFormat: 'yy-mm-dd' }).bind("change", function () {
+                    var minValue = $(this).val();
+                    minValue = $.datepicker.parseDate("yy-mm-dd", minValue);
+                    minValue.setDate(minValue.getDate() + 1);
+                    $("#datepickerTo").datepicker("option", "minDate", minValue);
+                })
+            });
+        </script>
+
+
+        @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+
+
+
+
+
+</body>
+</html>
+

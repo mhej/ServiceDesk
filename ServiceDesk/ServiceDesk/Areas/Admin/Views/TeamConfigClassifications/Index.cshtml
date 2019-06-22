@@ -1,0 +1,79 @@
+﻿@model TeamConfigClassificationsViewModel
+
+
+
+@{
+    ViewData["Title"] = "List of categories";
+}
+
+<body>
+    <br />
+    <span>@TempData["Msg"]</span>
+
+    <table class="table table-striped table-hover table-sm border">
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(m => m.AllClassifications.FirstOrDefault().Name)
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.AllClassifications)
+            {
+                <tr>
+
+                    <td>
+                        <div class="form-group">
+                            @Html.DisplayFor(m => item.Name)
+                        </div>
+                    </td>
+
+
+
+                    <td style="width:150px">
+                        <form method="post" asp-action="Index">
+                            <input type="hidden" asp-for="@item.Id" />
+                            <input type="hidden" asp-for="@Model.Team.Id" />
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+
+
+
+
+
+                            @if (Model.ClassificationsAssignedToTeam.Contains(item))
+                            {
+
+                                <input type="submit" value="Delete" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" />
+
+
+                            }
+
+                            else
+                            {
+
+                                <input type="submit" value="Add" asp-action="Add" asp-route-id="@item.Id" class="btn btn-outline-success btn-sm" />
+
+
+                            }
+
+                        </form>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="Team" asp-action="Index" class="btn btn-outline-primary">Back to List</a>
+
+</body>
+
+
+@section Scripts{
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,910 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Activate method" Url="html/961c7a36-e0ef-fbf9-1086-604f194cec06.htm" />
+  <HelpKINode Title="ActivatePOST method" Url="html/8d862109-bd12-70e5-d8f5-3b58d1174984.htm" />
+  <HelpKINode Title="Add method">
+    <HelpKINode Title="TeamConfigClassificationsController.Add Method " Url="html/2b12b4c4-7318-82a0-7bcf-6a4ac8cf784f.htm" />
+    <HelpKINode Title="TeamConfigUsersController.Add Method " Url="html/d51571e0-f39b-0afe-8c50-a09847161afe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Admin enumeration member" Url="html/4621f719-a1db-037f-2a52-9e7647fc76c5.htm" />
+  <HelpKINode Title="AdminAssignedToTeam class">
+    <HelpKINode Title="AdminAssignedToTeam Class" Url="html/b0c905d9-849f-cd62-0e8a-95c98c400d32.htm" />
+    <HelpKINode Title="AdminAssignedToTeam Class" Url="html/8d1b6890-f74d-c7d4-1b03-cfd17f8bdfca.htm" />
+    <HelpKINode Title="constructor" Url="html/622a6b5e-8e42-18db-fe94-2f15a5d8b18d.htm" />
+    <HelpKINode Title="constructor" Url="html/c0bff278-1055-b76c-2df0-35df06f63b0e.htm" />
+    <HelpKINode Title="methods" Url="html/de2c4656-88d6-7a26-49f7-e2b8f3b3c252.htm" />
+    <HelpKINode Title="methods" Url="html/907cfc00-03c0-3380-02a3-e11ef94ccde4.htm" />
+    <HelpKINode Title="properties" Url="html/1807c886-7821-ee06-d651-e9b9c4700346.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdminAssignedToTeam property" Url="html/1b5f4bdb-82f2-476f-4188-d533d26cd5e5.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.AdminAssignedToTeam constructor">
+    <HelpKINode Title="AdminAssignedToTeam Constructor " Url="html/622a6b5e-8e42-18db-fe94-2f15a5d8b18d.htm" />
+    <HelpKINode Title="AdminAssignedToTeam Constructor " Url="html/c0bff278-1055-b76c-2df0-35df06f63b0e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdminAssignedToTeam.ApplicationUser property" Url="html/633054f3-9e3c-21d9-ccd1-a8d62917c597.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.ApplicationUserId property" Url="html/348578a4-60f1-2658-f9d4-269041c8b781.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.BuildTargetModel method" Url="html/7bf985d1-edeb-12c2-0803-d0a043d977a9.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.Down method" Url="html/62aea5e9-0843-6aaf-df4f-de663524de12.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.Id property" Url="html/2a0daa9f-7794-259d-b8de-d61e4dcc7386.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.Team property" Url="html/4f7acc1d-33d6-2f35-86e1-4df8356a779f.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.TeamId property" Url="html/bf6c9b84-2625-16b8-767d-397f2b157b15.htm" />
+  <HelpKINode Title="AdminAssignedToTeam.Up method" Url="html/bad724da-c81a-39b9-7910-6e78f3b56da2.htm" />
+  <HelpKINode Title="AdminAssignedToTeamCorrectColumns class">
+    <HelpKINode Title="AdminAssignedToTeamCorrectColumns Class" Url="html/1e9c8d35-4e29-b9e7-cb27-d5ddceb4b504.htm" />
+    <HelpKINode Title="constructor" Url="html/a89c0709-33c2-4632-2502-4c8ac7039384.htm" />
+    <HelpKINode Title="methods" Url="html/34e62fe3-2955-c1d6-a658-6f1370c09311.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdminAssignedToTeamCorrectColumns.AdminAssignedToTeamCorrectColumns constructor" Url="html/a89c0709-33c2-4632-2502-4c8ac7039384.htm" />
+  <HelpKINode Title="AdminAssignedToTeamCorrectColumns.BuildTargetModel method" Url="html/1ace8ce9-7db0-a57a-d327-73ef144619ab.htm" />
+  <HelpKINode Title="AdminAssignedToTeamCorrectColumns.Down method" Url="html/80ee56b5-a68f-734e-e665-80ad0ecbc2e5.htm" />
+  <HelpKINode Title="AdminAssignedToTeamCorrectColumns.Up method" Url="html/d063413d-f75b-b646-3949-cf4d9ca44bd9.htm" />
+  <HelpKINode Title="AdminsAssignedToTeam property" Url="html/86bf78ab-95e6-d70d-eb98-9936da091ee5.htm" />
+  <HelpKINode Title="AdminUsersController class">
+    <HelpKINode Title="AdminUsersController Class" Url="html/a7135ad0-9556-33c1-be30-bba888437238.htm" />
+    <HelpKINode Title="constructor" Url="html/c5f70c39-0c31-3ea1-4db6-1363f1e525ef.htm" />
+    <HelpKINode Title="fields" Url="html/2a4656f6-87a0-52ec-394c-fd005080adaf.htm" />
+    <HelpKINode Title="methods" Url="html/fa00001b-b7e1-7c18-1d94-c08a9e6c705c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdminUsersController.Activate method" Url="html/961c7a36-e0ef-fbf9-1086-604f194cec06.htm" />
+  <HelpKINode Title="AdminUsersController.ActivatePOST method" Url="html/8d862109-bd12-70e5-d8f5-3b58d1174984.htm" />
+  <HelpKINode Title="AdminUsersController.AdminUsersController constructor" Url="html/c5f70c39-0c31-3ea1-4db6-1363f1e525ef.htm" />
+  <HelpKINode Title="AdminUsersController.Create method" Url="html/2b201e5a-5150-2c48-702c-8ebdb7f97faf.htm" />
+  <HelpKINode Title="AdminUsersController.CreatePOST method" Url="html/1f2fa55d-68e6-995c-34f5-0de08d28a1a9.htm" />
+  <HelpKINode Title="AdminUsersController.Delete method" Url="html/85218ff5-cda1-bd7b-8c58-3bfb4e471b6a.htm" />
+  <HelpKINode Title="AdminUsersController.DeletePOST method" Url="html/dd9992ac-40ed-d8ab-54d9-c99434a8f16f.htm" />
+  <HelpKINode Title="AdminUsersController.Edit method" Url="html/41412096-8f6f-b5b6-15be-fc1d9a9a8111.htm" />
+  <HelpKINode Title="AdminUsersController.Index method" Url="html/3ffa60e4-178d-0b68-5bdf-0725870fbd75.htm" />
+  <HelpKINode Title="AdminUsersController.PageSize field" Url="html/25189a08-557a-5d37-7329-69056583fa14.htm" />
+  <HelpKINode Title="AdminUsersViewModel class">
+    <HelpKINode Title="AdminUsersViewModel Class" Url="html/854ca69a-c953-1b8a-c91e-ee80c99353d9.htm" />
+    <HelpKINode Title="constructor" Url="html/34d8a468-0858-bf68-17c1-9883590f4a75.htm" />
+    <HelpKINode Title="methods" Url="html/4bf144be-8181-0436-3c33-db886c3881d3.htm" />
+    <HelpKINode Title="properties" Url="html/b06b017a-564e-1c00-dac4-eba6c6298606.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AdminUsersViewModel.AdminUsersViewModel constructor" Url="html/34d8a468-0858-bf68-17c1-9883590f4a75.htm" />
+  <HelpKINode Title="AdminUsersViewModel.ApplicationUser property" Url="html/4bfacbaf-8529-801b-2554-143cf3276b9a.htm" />
+  <HelpKINode Title="AdminUsersViewModel.ApplicationUserRole property" Url="html/1e722e43-01c5-1ed3-c0b0-a4dff2c52c76.htm" />
+  <HelpKINode Title="AllAdmins property" Url="html/5a640ade-45b4-2cfe-3d5a-38374b6711c5.htm" />
+  <HelpKINode Title="AllClassifications property" Url="html/8c30f1f8-ccd8-87fd-6460-6b13b5b990c8.htm" />
+  <HelpKINode Title="ApplicationDbContext class">
+    <HelpKINode Title="ApplicationDbContext Class" Url="html/cd02f3f0-256a-4569-ee34-00101ec27610.htm" />
+    <HelpKINode Title="constructor" Url="html/0bb0aca1-4860-e43a-15f4-112d0852ba6c.htm" />
+    <HelpKINode Title="properties" Url="html/db0e93a4-0e4c-c85b-d9c1-14dea9a10dfa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationDbContext.AdminAssignedToTeam property" Url="html/1b5f4bdb-82f2-476f-4188-d533d26cd5e5.htm" />
+  <HelpKINode Title="ApplicationDbContext.ApplicationDbContext constructor" Url="html/0bb0aca1-4860-e43a-15f4-112d0852ba6c.htm" />
+  <HelpKINode Title="ApplicationDbContext.ApplicationUsers property" Url="html/144a47c3-245b-97a6-7ac9-620c322bf6cf.htm" />
+  <HelpKINode Title="ApplicationDbContext.ClassificationAssignedToTeam property" Url="html/47126c0f-6e29-e215-e24b-b204e9d53d5d.htm" />
+  <HelpKINode Title="ApplicationDbContext.Classifications property" Url="html/748509a3-28ce-9eb6-81ea-6845f985c7d9.htm" />
+  <HelpKINode Title="ApplicationDbContext.Image property" Url="html/7fa856f1-3c6f-4590-2ed8-7dfa620cb06d.htm" />
+  <HelpKINode Title="ApplicationDbContext.ImagesAssignedToRequest property" Url="html/a135d504-3f19-d662-5093-bb7b795b7cb3.htm" />
+  <HelpKINode Title="ApplicationDbContext.NotesAssignedToRequest property" Url="html/cb3ee155-f4d0-20e0-da0f-3274eb84f4dc.htm" />
+  <HelpKINode Title="ApplicationDbContext.RequestNotes property" Url="html/c7fe97f1-acbd-4c59-aeba-594c434e48f4.htm" />
+  <HelpKINode Title="ApplicationDbContext.Requests property" Url="html/f1b85686-006f-7858-63f5-e49ed5f1bedb.htm" />
+  <HelpKINode Title="ApplicationDbContext.Teams property" Url="html/efd238f3-63fb-418b-0e89-da205564ad83.htm" />
+  <HelpKINode Title="ApplicationDbContextModelSnapshot class">
+    <HelpKINode Title="ApplicationDbContextModelSnapshot Class" Url="html/45345e27-1eea-0232-d206-0e0142e54065.htm" />
+    <HelpKINode Title="constructor" Url="html/61d426c6-73a3-a818-441a-74de7c747d58.htm" />
+    <HelpKINode Title="methods" Url="html/d4d00f8e-0960-28ce-33f4-dd1ad13c8d80.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationDbContextModelSnapshot.ApplicationDbContextModelSnapshot constructor" Url="html/61d426c6-73a3-a818-441a-74de7c747d58.htm" />
+  <HelpKINode Title="ApplicationDbContextModelSnapshot.BuildModel method" Url="html/00d214d9-e0b9-f0b9-90c5-1ba3e1e85aa0.htm" />
+  <HelpKINode Title="ApplicationUser class">
+    <HelpKINode Title="ApplicationUser Class" Url="html/34fedb6d-8ab5-f2a1-aef5-069e7a6966de.htm" />
+    <HelpKINode Title="constructor" Url="html/acf24c4c-be91-7420-566c-8b864ef8730b.htm" />
+    <HelpKINode Title="properties" Url="html/e73ccf6d-56ad-85ca-1d87-b7e222de2fe7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationUser property">
+    <HelpKINode Title="AdminAssignedToTeam.ApplicationUser Property " Url="html/633054f3-9e3c-21d9-ccd1-a8d62917c597.htm" />
+    <HelpKINode Title="AdminUsersViewModel.ApplicationUser Property " Url="html/4bfacbaf-8529-801b-2554-143cf3276b9a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationUser.ApplicationUser constructor" Url="html/acf24c4c-be91-7420-566c-8b864ef8730b.htm" />
+  <HelpKINode Title="ApplicationUser.Name property" Url="html/fc402d41-c98a-a0b5-4eec-bc2bb867f07c.htm" />
+  <HelpKINode Title="ApplicationUserId property" Url="html/348578a4-60f1-2658-f9d4-269041c8b781.htm" />
+  <HelpKINode Title="ApplicationUserRole property" Url="html/1e722e43-01c5-1ed3-c0b0-a4dff2c52c76.htm" />
+  <HelpKINode Title="ApplicationUserRoles enumeration" Url="html/4621f719-a1db-037f-2a52-9e7647fc76c5.htm" />
+  <HelpKINode Title="ApplicationUsers property" Url="html/144a47c3-245b-97a6-7ac9-620c322bf6cf.htm" />
+  <HelpKINode Title="Assignee property" Url="html/f4cdc0d3-6ab0-7bee-c1fb-5009b5036a44.htm" />
+  <HelpKINode Title="AssigneeId property" Url="html/c0a114be-f35b-062a-4192-9bec9f3c2a4b.htm" />
+  <HelpKINode Title="Assignees property" Url="html/d6df9f8b-138c-aa9a-95f2-e411f5cea976.htm" />
+  <HelpKINode Title="BuildModel method" Url="html/00d214d9-e0b9-f0b9-90c5-1ba3e1e85aa0.htm" />
+  <HelpKINode Title="BuildTargetModel method">
+    <HelpKINode Title="AdminAssignedToTeam.BuildTargetModel Method " Url="html/7bf985d1-edeb-12c2-0803-d0a043d977a9.htm" />
+    <HelpKINode Title="AdminAssignedToTeamCorrectColumns.BuildTargetModel Method " Url="html/1ace8ce9-7db0-a57a-d327-73ef144619ab.htm" />
+    <HelpKINode Title="CreateIdentitySchema.BuildTargetModel Method " Url="html/0964b1cd-fc84-34d0-3c85-e47733e33c4e.htm" />
+    <HelpKINode Title="DateToDate.BuildTargetModel Method " Url="html/09e24583-fd84-055f-fb29-ced20446b5d5.htm" />
+    <HelpKINode Title="DateToDateNullable.BuildTargetModel Method " Url="html/8bc1ffad-ac50-7fa5-4cd6-b0ecdb1a3d26.htm" />
+    <HelpKINode Title="DateToString.BuildTargetModel Method " Url="html/c957cc71-e7b5-00be-6961-fcdc69ed0f52.htm" />
+    <HelpKINode Title="Discriminator.BuildTargetModel Method " Url="html/a36469b3-a519-1d79-2890-ff23369676c2.htm" />
+    <HelpKINode Title="Images.BuildTargetModel Method " Url="html/5b633904-d2df-5e55-9871-944b3e8b03f9.htm" />
+    <HelpKINode Title="NoteAsDbSet.BuildTargetModel Method " Url="html/40e53343-5790-a40d-cbc2-4e398f2aab33.htm" />
+    <HelpKINode Title="removePriority.BuildTargetModel Method " Url="html/1f18bd81-87f6-4ecc-d1b0-fca975a34001.htm" />
+    <HelpKINode Title="RequestNote.BuildTargetModel Method " Url="html/46e696c7-ab4b-9753-c76a-023599fed531.htm" />
+    <HelpKINode Title="Required.BuildTargetModel Method " Url="html/b96dc0f1-f8df-ad50-492e-4aa7c8cfdc53.htm" />
+    <HelpKINode Title="timeStamp3.BuildTargetModel Method " Url="html/e7d06dfa-0b22-8d61-9022-8223a72f19e5.htm" />
+    <HelpKINode Title="UserNote.BuildTargetModel Method " Url="html/49c7f9d5-7a1e-c967-deec-70b15f3ed7a5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePassword method" Url="html/6943ece5-f8e4-e9ec-7f38-0a21b5c1c023.htm" />
+  <HelpKINode Title="ChangePasswordController class">
+    <HelpKINode Title="ChangePasswordController Class" Url="html/cfbc3ef3-6a06-c024-a3d9-970852cc12a0.htm" />
+    <HelpKINode Title="constructor" Url="html/4cea17cc-ea79-5be9-6701-18980e9badde.htm" />
+    <HelpKINode Title="methods" Url="html/4a5d1b7f-2aa7-6770-d6de-7f8607365cc4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePasswordController.ChangePassword method" Url="html/6943ece5-f8e4-e9ec-7f38-0a21b5c1c023.htm" />
+  <HelpKINode Title="ChangePasswordController.ChangePasswordController constructor" Url="html/4cea17cc-ea79-5be9-6701-18980e9badde.htm" />
+  <HelpKINode Title="ChangePasswordViewModel class">
+    <HelpKINode Title="ChangePasswordViewModel Class" Url="html/45022447-a6b0-e54e-e444-0e5c24ae792e.htm" />
+    <HelpKINode Title="constructor" Url="html/b86fb498-e204-625f-8082-ae71febf3465.htm" />
+    <HelpKINode Title="methods" Url="html/83c7a7fa-62cb-0d52-197b-fd6670f10ce8.htm" />
+    <HelpKINode Title="properties" Url="html/eb73a7ae-438c-241b-166d-ebed78d50bda.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePasswordViewModel.ChangePasswordViewModel constructor" Url="html/b86fb498-e204-625f-8082-ae71febf3465.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.ConfirmPassword property" Url="html/fb5db5ac-ceb8-755b-8937-a31233866154.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.NewPassword property" Url="html/112575d7-30e2-da7d-9030-222e9058ec40.htm" />
+  <HelpKINode Title="ChangePasswordViewModel.OldPassword property" Url="html/ec1d1d8a-dd1a-9ba1-b948-36457ce2836a.htm" />
+  <HelpKINode Title="Classification class">
+    <HelpKINode Title="Classification Class" Url="html/cbc91c14-cfd3-e737-4f89-36a0ae44ce26.htm" />
+    <HelpKINode Title="constructor" Url="html/f70d831d-9d3e-cdd0-1513-03ae266725af.htm" />
+    <HelpKINode Title="methods" Url="html/280572d5-1437-e8af-55e0-fab8492abab9.htm" />
+    <HelpKINode Title="properties" Url="html/bbc76341-d4ee-fd4f-dcd2-bdd02b361b08.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Classification property">
+    <HelpKINode Title="ClassificationAssignedToTeam.Classification Property " Url="html/1b56eb7f-5165-26de-3ddd-0351c7362e65.htm" />
+    <HelpKINode Title="Request.Classification Property " Url="html/1319f5ef-ac32-841e-f486-6ea43e081215.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Classification.Classification constructor" Url="html/f70d831d-9d3e-cdd0-1513-03ae266725af.htm" />
+  <HelpKINode Title="Classification.Id property" Url="html/cc5126cb-89ed-1a05-d965-4f1ab32c8b46.htm" />
+  <HelpKINode Title="Classification.Name property" Url="html/281a0756-0950-35b0-4005-052fc64a0072.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam class">
+    <HelpKINode Title="ClassificationAssignedToTeam Class" Url="html/65fef364-66fd-4eb6-e2bb-5140772bbf82.htm" />
+    <HelpKINode Title="constructor" Url="html/bd94cc93-c122-04ee-960a-3d4e65189518.htm" />
+    <HelpKINode Title="methods" Url="html/fdd95f49-ec02-3c98-a2e0-d44204bc3c81.htm" />
+    <HelpKINode Title="properties" Url="html/fb10c012-cdf8-1094-e392-893b981c7559.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassificationAssignedToTeam property" Url="html/47126c0f-6e29-e215-e24b-b204e9d53d5d.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.Classification property" Url="html/1b56eb7f-5165-26de-3ddd-0351c7362e65.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.ClassificationAssignedToTeam constructor" Url="html/bd94cc93-c122-04ee-960a-3d4e65189518.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.ClassificationId property" Url="html/e2808939-2740-a739-d468-71ac6d1a32f3.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.Id property" Url="html/2358b3c5-f160-2d0b-21a2-c6723d1632b8.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.Team property" Url="html/6b541a05-fefd-3419-6510-df17fe95edd1.htm" />
+  <HelpKINode Title="ClassificationAssignedToTeam.TeamId property" Url="html/24f1d2cd-f485-9da5-dc2d-88e354f4c868.htm" />
+  <HelpKINode Title="ClassificationController class">
+    <HelpKINode Title="ClassificationController Class" Url="html/6e56d6d2-dd0b-9138-9124-9fa93108878d.htm" />
+    <HelpKINode Title="constructor" Url="html/a71a59b9-a926-08b2-90c9-b64be5932935.htm" />
+    <HelpKINode Title="fields" Url="html/bb9adcf7-5105-182c-358c-f502a357952a.htm" />
+    <HelpKINode Title="methods" Url="html/61917f15-47ce-975c-9244-3e2785df485b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassificationController.ClassificationController constructor" Url="html/a71a59b9-a926-08b2-90c9-b64be5932935.htm" />
+  <HelpKINode Title="ClassificationController.Create method" Url="html/8d3e8322-89e2-d85a-8d2f-3175aca19f0f.htm" />
+  <HelpKINode Title="ClassificationController.Delete method" Url="html/ead61b81-f500-077e-e023-0fefb5738a35.htm" />
+  <HelpKINode Title="ClassificationController.DeleteConfirmed method" Url="html/2f20a065-c403-7c57-8f08-7ad6c705c58b.htm" />
+  <HelpKINode Title="ClassificationController.Edit method" Url="html/be2c148b-a48b-3c31-a893-6616a2052ad6.htm" />
+  <HelpKINode Title="ClassificationController.Index method" Url="html/d7a345d4-ffae-cf81-8c02-4e76015e6b40.htm" />
+  <HelpKINode Title="ClassificationController.PageSize field" Url="html/c2406d15-b6a8-80c8-4a48-a1a8f64a4e30.htm" />
+  <HelpKINode Title="ClassificationId property">
+    <HelpKINode Title="ClassificationAssignedToTeam.ClassificationId Property " Url="html/e2808939-2740-a739-d468-71ac6d1a32f3.htm" />
+    <HelpKINode Title="Request.ClassificationId Property " Url="html/fdad5891-ff59-76e5-3b18-0673bb62f2a8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Classifications property">
+    <HelpKINode Title="ApplicationDbContext.Classifications Property " Url="html/748509a3-28ce-9eb6-81ea-6845f985c7d9.htm" />
+    <HelpKINode Title="ClassificationsListViewModel.Classifications Property " Url="html/28bfc0e8-7114-7ab8-47b1-44b529979dac.htm" />
+    <HelpKINode Title="RequestViewModel.Classifications Property " Url="html/5a73ab5b-c4bc-21fb-964f-59c6bbc1bb03.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassificationsAssignedToTeam property" Url="html/3ec88ba4-ab0b-25e8-3304-7ecdf7893d82.htm" />
+  <HelpKINode Title="ClassificationsListViewModel class">
+    <HelpKINode Title="ClassificationsListViewModel Class" Url="html/438ac45d-949f-b346-ec10-941d242b0e49.htm" />
+    <HelpKINode Title="constructor" Url="html/a8987b00-834e-3d66-f1fb-2b5844023de7.htm" />
+    <HelpKINode Title="methods" Url="html/65d25007-8477-7125-0599-26610503dc34.htm" />
+    <HelpKINode Title="properties" Url="html/45e99c66-19ef-593c-4428-4ba31a8e2920.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClassificationsListViewModel.Classifications property" Url="html/28bfc0e8-7114-7ab8-47b1-44b529979dac.htm" />
+  <HelpKINode Title="ClassificationsListViewModel.ClassificationsListViewModel constructor" Url="html/a8987b00-834e-3d66-f1fb-2b5844023de7.htm" />
+  <HelpKINode Title="ClassificationsListViewModel.PagingInfo property" Url="html/9a7b7278-a3d5-f294-19d7-e1d5c8ecf0cc.htm" />
+  <HelpKINode Title="ClassificationsListViewModel.SearchName property" Url="html/0e517781-6104-7029-f25f-78879dc2c3cb.htm" />
+  <HelpKINode Title="Closed enumeration member" Url="html/2d758c97-04c2-04e5-d294-629870ac32ce.htm" />
+  <HelpKINode Title="ClosedDate property" Url="html/b2162352-ca4c-da13-c5ad-bd6d980135be.htm" />
+  <HelpKINode Title="Configuration property" Url="html/4e4a760c-50c5-0ba3-dd1f-82d2a2d7900f.htm" />
+  <HelpKINode Title="Configure method" Url="html/39beea28-ff9b-353d-397f-d3bc68ed625b.htm" />
+  <HelpKINode Title="ConfigureServices method" Url="html/538049a8-b850-40af-fcfe-a1be169e7a0f.htm" />
+  <HelpKINode Title="ConfirmPassword property" Url="html/fb5db5ac-ceb8-755b-8937-a31233866154.htm" />
+  <HelpKINode Title="Content property">
+    <HelpKINode Title="Request.Content Property " Url="html/72addecc-5476-98e0-00ac-78ac29f10e30.htm" />
+    <HelpKINode Title="RequestNote.Content Property " Url="html/be0e5c57-1e0e-1ad5-d6eb-212ab7f297dc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="AdminUsersController.Create Method " Url="html/2b201e5a-5150-2c48-702c-8ebdb7f97faf.htm" />
+    <HelpKINode Title="ClassificationController.Create Method " Url="html/8d3e8322-89e2-d85a-8d2f-3175aca19f0f.htm" />
+    <HelpKINode Title="ImagesController.Create Method " Url="html/6fd138fd-65a4-0672-d38e-9965ca4412e6.htm" />
+    <HelpKINode Title="RequestNotesController.Create Method " Url="html/f770cd29-2b30-b6b1-ce39-c7a675f04d5a.htm" />
+    <HelpKINode Title="RequestsController.Create Method " Url="html/bd3c3115-f201-35fb-9f43-b40c8fc6be72.htm" />
+    <HelpKINode Title="TeamController.Create Method " Url="html/1244f023-a437-dc4d-b9f8-bc6e8c1827b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateIdentitySchema class">
+    <HelpKINode Title="CreateIdentitySchema Class" Url="html/92aa97eb-17df-a8a9-1f3c-875a2345d617.htm" />
+    <HelpKINode Title="constructor" Url="html/0ebf51fd-bdfc-441e-872a-dbfd5276d3ae.htm" />
+    <HelpKINode Title="methods" Url="html/94fde344-8290-95a2-892f-a23711a6ac52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateIdentitySchema.BuildTargetModel method" Url="html/0964b1cd-fc84-34d0-3c85-e47733e33c4e.htm" />
+  <HelpKINode Title="CreateIdentitySchema.CreateIdentitySchema constructor" Url="html/0ebf51fd-bdfc-441e-872a-dbfd5276d3ae.htm" />
+  <HelpKINode Title="CreateIdentitySchema.Down method" Url="html/e9a0a759-b3ee-dea1-40d6-d49fdf0e92ca.htm" />
+  <HelpKINode Title="CreateIdentitySchema.Up method" Url="html/9417ffb0-a1fc-e8e3-6c69-b813b0c14dc5.htm" />
+  <HelpKINode Title="CreatePOST method" Url="html/1f2fa55d-68e6-995c-34f5-0de08d28a1a9.htm" />
+  <HelpKINode Title="CreateWebHostBuilder method" Url="html/49cfb833-6ecb-06e9-b1cd-4d4eb57db593.htm" />
+  <HelpKINode Title="CurrentPage property" Url="html/430b590e-cba7-4c66-e069-ded1c60120d3.htm" />
+  <HelpKINode Title="Date property" Url="html/074450d0-48c3-d202-5b3b-d0943dd71cf5.htm" />
+  <HelpKINode Title="DateToDate class">
+    <HelpKINode Title="DateToDate Class" Url="html/bc2e9493-2988-191c-ac8a-05b7e20f8ea0.htm" />
+    <HelpKINode Title="constructor" Url="html/79c6f7f0-8fa7-fbf0-6c5a-3e9060bc9f3b.htm" />
+    <HelpKINode Title="methods" Url="html/1d20d22b-3dda-708b-6052-a0a341138dee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateToDate.BuildTargetModel method" Url="html/09e24583-fd84-055f-fb29-ced20446b5d5.htm" />
+  <HelpKINode Title="DateToDate.DateToDate constructor" Url="html/79c6f7f0-8fa7-fbf0-6c5a-3e9060bc9f3b.htm" />
+  <HelpKINode Title="DateToDate.Down method" Url="html/83d6294e-9a13-1be7-104f-5fccb1234f52.htm" />
+  <HelpKINode Title="DateToDate.Up method" Url="html/bf8fa405-a0ee-eb9e-c397-f9231b93a762.htm" />
+  <HelpKINode Title="DateToDateNullable class">
+    <HelpKINode Title="DateToDateNullable Class" Url="html/5b4d77b9-a43a-4f48-cfd9-09e5056b4ee9.htm" />
+    <HelpKINode Title="constructor" Url="html/68b4b2f5-e26d-0edc-13bf-66370b703242.htm" />
+    <HelpKINode Title="methods" Url="html/ed8a0cc5-79a1-11d6-98ee-5f1b747075f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateToDateNullable.BuildTargetModel method" Url="html/8bc1ffad-ac50-7fa5-4cd6-b0ecdb1a3d26.htm" />
+  <HelpKINode Title="DateToDateNullable.DateToDateNullable constructor" Url="html/68b4b2f5-e26d-0edc-13bf-66370b703242.htm" />
+  <HelpKINode Title="DateToDateNullable.Down method" Url="html/abc76b9c-896c-2fb6-10ae-767110386e11.htm" />
+  <HelpKINode Title="DateToDateNullable.Up method" Url="html/1f893db3-2ed5-e3e4-ded1-5c615f3e1afb.htm" />
+  <HelpKINode Title="DateToString class">
+    <HelpKINode Title="DateToString Class" Url="html/3a2fa027-f4aa-c3d3-46a3-46fb6a340412.htm" />
+    <HelpKINode Title="constructor" Url="html/fa752492-a0b1-1b71-c216-2c75a2c75d37.htm" />
+    <HelpKINode Title="methods" Url="html/90180418-ed6d-0a84-5c89-5fe1504505f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateToString.BuildTargetModel method" Url="html/c957cc71-e7b5-00be-6961-fcdc69ed0f52.htm" />
+  <HelpKINode Title="DateToString.DateToString constructor" Url="html/fa752492-a0b1-1b71-c216-2c75a2c75d37.htm" />
+  <HelpKINode Title="DateToString.Down method" Url="html/9f5dcdbb-f7d9-6ccd-86ee-a34ce9da5ab2.htm" />
+  <HelpKINode Title="DateToString.Up method" Url="html/f3a4e133-7db5-1ddb-33f7-57277dde56c8.htm" />
+  <HelpKINode Title="DBInitializer class">
+    <HelpKINode Title="DBInitializer Class" Url="html/36377f67-b802-68bd-8b73-0bc7c745002b.htm" />
+    <HelpKINode Title="constructor" Url="html/fffa45ef-b18e-8a0e-2562-38e16a4b1479.htm" />
+    <HelpKINode Title="methods" Url="html/6c3af8ba-2ce9-1ae2-639b-22eb74c6f8c6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DBInitializer.DBInitializer constructor" Url="html/fffa45ef-b18e-8a0e-2562-38e16a4b1479.htm" />
+  <HelpKINode Title="DBInitializer.Initialize method" Url="html/2e6f1ba1-a8c5-f3f4-e735-b90e1992b51d.htm" />
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="AdminUsersController.Delete Method " Url="html/85218ff5-cda1-bd7b-8c58-3bfb4e471b6a.htm" />
+    <HelpKINode Title="ClassificationController.Delete Method " Url="html/ead61b81-f500-077e-e023-0fefb5738a35.htm" />
+    <HelpKINode Title="TeamController.Delete Method " Url="html/de935d34-9615-7b5f-0c3a-4558504406f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteConfirmed method">
+    <HelpKINode Title="ClassificationController.DeleteConfirmed Method " Url="html/2f20a065-c403-7c57-8f08-7ad6c705c58b.htm" />
+    <HelpKINode Title="TeamConfigClassificationsController.DeleteConfirmed Method " Url="html/09846230-e785-e7d8-eedd-2d6662b2984d.htm" />
+    <HelpKINode Title="TeamConfigUsersController.DeleteConfirmed Method " Url="html/d4742619-fc20-70ec-6199-b8425103ebb1.htm" />
+    <HelpKINode Title="TeamController.DeleteConfirmed Method " Url="html/eed6d3c5-4574-a763-8500-7fa9d7b0a7f0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeletePOST method" Url="html/dd9992ac-40ed-d8ab-54d9-c99434a8f16f.htm" />
+  <HelpKINode Title="Details method" Url="html/40e0d11c-3aa9-32e9-2fb4-90f62e117a28.htm" />
+  <HelpKINode Title="Discriminator class">
+    <HelpKINode Title="Discriminator Class" Url="html/e8e60fb5-b498-a623-f42d-dad0c38b92c7.htm" />
+    <HelpKINode Title="constructor" Url="html/4bc06f7e-eec8-908c-7451-2fdc2ec32f4c.htm" />
+    <HelpKINode Title="methods" Url="html/6c199240-f157-4b68-2735-1c55ece40d43.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Discriminator.BuildTargetModel method" Url="html/a36469b3-a519-1d79-2890-ff23369676c2.htm" />
+  <HelpKINode Title="Discriminator.Discriminator constructor" Url="html/4bc06f7e-eec8-908c-7451-2fdc2ec32f4c.htm" />
+  <HelpKINode Title="Discriminator.Down method" Url="html/7c0e4c53-85d8-1b92-8819-494281bda773.htm" />
+  <HelpKINode Title="Discriminator.Up method" Url="html/63c2aef3-6c8a-8108-861f-cc2b0b42c1af.htm" />
+  <HelpKINode Title="Down method">
+    <HelpKINode Title="AdminAssignedToTeam.Down Method " Url="html/62aea5e9-0843-6aaf-df4f-de663524de12.htm" />
+    <HelpKINode Title="AdminAssignedToTeamCorrectColumns.Down Method " Url="html/80ee56b5-a68f-734e-e665-80ad0ecbc2e5.htm" />
+    <HelpKINode Title="CreateIdentitySchema.Down Method " Url="html/e9a0a759-b3ee-dea1-40d6-d49fdf0e92ca.htm" />
+    <HelpKINode Title="DateToDate.Down Method " Url="html/83d6294e-9a13-1be7-104f-5fccb1234f52.htm" />
+    <HelpKINode Title="DateToDateNullable.Down Method " Url="html/abc76b9c-896c-2fb6-10ae-767110386e11.htm" />
+    <HelpKINode Title="DateToString.Down Method " Url="html/9f5dcdbb-f7d9-6ccd-86ee-a34ce9da5ab2.htm" />
+    <HelpKINode Title="Discriminator.Down Method " Url="html/7c0e4c53-85d8-1b92-8819-494281bda773.htm" />
+    <HelpKINode Title="Images.Down Method " Url="html/f8f4726b-010f-3c22-ab92-2adda4b8e057.htm" />
+    <HelpKINode Title="NoteAsDbSet.Down Method " Url="html/50d0c714-8ba4-1e56-5dcd-299aa5c155ae.htm" />
+    <HelpKINode Title="removePriority.Down Method " Url="html/5a46dd2b-2e59-4261-8ceb-c3cef9324bdd.htm" />
+    <HelpKINode Title="RequestNote.Down Method " Url="html/2f5c25cc-a2cb-28e5-565a-ef8885a4bc12.htm" />
+    <HelpKINode Title="Required.Down Method " Url="html/037fefa4-cb38-7769-7b49-8453be2c1ba8.htm" />
+    <HelpKINode Title="timeStamp3.Down Method " Url="html/c6c295b9-4310-ee9d-1023-a6345755a6f3.htm" />
+    <HelpKINode Title="UserNote.Down Method " Url="html/39992042-8274-7713-613b-2318d130bfd2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Edit method">
+    <HelpKINode Title="AdminUsersController.Edit Method " Url="html/41412096-8f6f-b5b6-15be-fc1d9a9a8111.htm" />
+    <HelpKINode Title="ClassificationController.Edit Method " Url="html/be2c148b-a48b-3c31-a893-6616a2052ad6.htm" />
+    <HelpKINode Title="RequestsController.Edit Method " Url="html/1f98f771-8093-fae5-91b8-17d3e4457a7d.htm" />
+    <HelpKINode Title="TeamController.Edit Method " Url="html/21f6af11-479c-92ab-fd2e-724179c1f8af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorViewModel class">
+    <HelpKINode Title="ErrorViewModel Class" Url="html/647dd15d-7e9f-488c-d011-4162f2073b14.htm" />
+    <HelpKINode Title="constructor" Url="html/e4488547-cf87-0c4d-b643-8909133ba9f8.htm" />
+    <HelpKINode Title="methods" Url="html/78caf19c-3a98-8794-43ab-a6a62b8dd526.htm" />
+    <HelpKINode Title="properties" Url="html/d5875eff-481d-6153-f90b-b0de0c46a2db.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ErrorViewModel.ErrorViewModel constructor" Url="html/e4488547-cf87-0c4d-b643-8909133ba9f8.htm" />
+  <HelpKINode Title="ErrorViewModel.RequestId property" Url="html/451fedfb-fead-1553-e5cf-7e1ba04601f1.htm" />
+  <HelpKINode Title="ErrorViewModel.ShowRequestId property" Url="html/3891ed45-4584-eff3-2b1b-01c29affc6e5.htm" />
+  <HelpKINode Title="GetAssignee method" Url="html/3cfbd8d5-8834-c643-6486-6d939f27e5c6.htm" />
+  <HelpKINode Title="GetClassification method" Url="html/f804b53b-7781-6a20-db86-a295536d857e.htm" />
+  <HelpKINode Title="GetPropertyValue(Of T) method" Url="html/3f29ca65-9ce1-b67d-fc5a-aeb9fbae58fc.htm" />
+  <HelpKINode Title="GetPropertyValue&lt;T&gt; method" Url="html/3f29ca65-9ce1-b67d-fc5a-aeb9fbae58fc.htm" />
+  <HelpKINode Title="Id property">
+    <HelpKINode Title="AdminAssignedToTeam.Id Property " Url="html/2a0daa9f-7794-259d-b8de-d61e4dcc7386.htm" />
+    <HelpKINode Title="Classification.Id Property " Url="html/cc5126cb-89ed-1a05-d965-4f1ab32c8b46.htm" />
+    <HelpKINode Title="ClassificationAssignedToTeam.Id Property " Url="html/2358b3c5-f160-2d0b-21a2-c6723d1632b8.htm" />
+    <HelpKINode Title="Image.Id Property " Url="html/5b768646-a0ca-4b9f-87ec-7b6e2282a4d1.htm" />
+    <HelpKINode Title="ImagesAssignedToRequest.Id Property " Url="html/8ff31275-03e8-bfd1-c20e-60347a9ca5c9.htm" />
+    <HelpKINode Title="NotesAssignedToRequest.Id Property " Url="html/d6b0df95-abd8-4047-e9cf-32c7e56947f9.htm" />
+    <HelpKINode Title="Request.Id Property " Url="html/bfb11ec2-690a-f0c4-3fea-523850aa8068.htm" />
+    <HelpKINode Title="RequestNote.Id Property " Url="html/82df1efe-d29a-785f-6a91-890b2f3e9bd3.htm" />
+    <HelpKINode Title="Team.Id Property " Url="html/56d189e0-fd68-e779-c1ef-2f7fe0bd743c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDBInitializer interface">
+    <HelpKINode Title="IDBInitializer Interface" Url="html/3645db8a-7b84-9e3a-4585-36e6e27ed262.htm" />
+    <HelpKINode Title="methods" Url="html/b9cb25cf-10bb-7028-dd2b-31b293aaaf90.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDBInitializer.Initialize method" Url="html/e543fd35-9fa2-84e8-d35e-3ed5546b37e9.htm" />
+  <HelpKINode Title="IEnumerableExtension class">
+    <HelpKINode Title="IEnumerableExtension Class" Url="html/4925a7ef-a821-c9ed-feb2-ea97a2773aa5.htm" />
+    <HelpKINode Title="methods" Url="html/8657342d-3c85-13cb-4540-65b3b9780e4f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEnumerableExtension.ToSelectListItem(Of T) method" Url="html/cc7e122e-e804-3e3b-7957-541212540843.htm" />
+  <HelpKINode Title="IEnumerableExtension.ToSelectListItem&lt;T&gt; method" Url="html/cc7e122e-e804-3e3b-7957-541212540843.htm" />
+  <HelpKINode Title="IEnumerableExtension.ToSelectListItemString(Of T) method" Url="html/3c9605e8-a991-a853-0ca9-772a63f53e27.htm" />
+  <HelpKINode Title="IEnumerableExtension.ToSelectListItemString&lt;T&gt; method" Url="html/3c9605e8-a991-a853-0ca9-772a63f53e27.htm" />
+  <HelpKINode Title="Image class">
+    <HelpKINode Title="Image Class" Url="html/5dff6e84-a51d-bf0d-f663-20f73fccfac2.htm" />
+    <HelpKINode Title="constructor" Url="html/b5ae2b94-9dda-c865-921f-f051a7e4bff2.htm" />
+    <HelpKINode Title="methods" Url="html/e6d3c062-45a6-3bc4-d6d0-2a8fbe6269ce.htm" />
+    <HelpKINode Title="properties" Url="html/0b8697f8-3c58-1396-57d9-7b62707c76b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Image property">
+    <HelpKINode Title="ApplicationDbContext.Image Property " Url="html/7fa856f1-3c6f-4590-2ed8-7dfa620cb06d.htm" />
+    <HelpKINode Title="ImagesAssignedToRequest.Image Property " Url="html/5d75fee1-746c-1012-4754-5ffa0c0fca78.htm" />
+    <HelpKINode Title="Request.Image Property " Url="html/33b26811-6b49-8eae-9fa5-46ad95580c75.htm" />
+    <HelpKINode Title="RequestViewModel.Image Property " Url="html/9f32351c-7b23-2bf0-bd0e-f212b3e64ff0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Image.Id property" Url="html/5b768646-a0ca-4b9f-87ec-7b6e2282a4d1.htm" />
+  <HelpKINode Title="Image.Image constructor" Url="html/b5ae2b94-9dda-c865-921f-f051a7e4bff2.htm" />
+  <HelpKINode Title="Image.Name property" Url="html/e0bbb103-c4b9-3aee-5a6a-f00c44ac2d03.htm" />
+  <HelpKINode Title="ImageId property">
+    <HelpKINode Title="ImagesAssignedToRequest.ImageId Property " Url="html/5a742e36-27bb-ed99-8617-4975d2c218b8.htm" />
+    <HelpKINode Title="Request.ImageId Property " Url="html/0c837e98-c93f-ee7b-c02b-c0a23aa6cce4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Images class">
+    <HelpKINode Title="Images Class" Url="html/13cb2631-ca22-95cf-bed5-f87bd35704bc.htm" />
+    <HelpKINode Title="constructor" Url="html/7f38392c-9cda-10cc-b4a4-1b98c9ee2a64.htm" />
+    <HelpKINode Title="methods" Url="html/0ae58fdb-03fb-78ad-8647-c3331bc24a60.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Images property" Url="html/101fb383-d967-6bc6-6d1e-1bd51a35d502.htm" />
+  <HelpKINode Title="Images.BuildTargetModel method" Url="html/5b633904-d2df-5e55-9871-944b3e8b03f9.htm" />
+  <HelpKINode Title="Images.Down method" Url="html/f8f4726b-010f-3c22-ab92-2adda4b8e057.htm" />
+  <HelpKINode Title="Images.Images constructor" Url="html/7f38392c-9cda-10cc-b4a4-1b98c9ee2a64.htm" />
+  <HelpKINode Title="Images.Up method" Url="html/0d8227c9-7a50-3af3-ba56-a5a7dca3fbf4.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest class">
+    <HelpKINode Title="ImagesAssignedToRequest Class" Url="html/b3eb7ec5-65c8-0591-ecc5-ab2eafce69e7.htm" />
+    <HelpKINode Title="constructor" Url="html/32e416cc-6a2a-7356-c181-4ba7d0210e7e.htm" />
+    <HelpKINode Title="methods" Url="html/9e0d86cc-c3d2-1542-4221-7f94b55bafe8.htm" />
+    <HelpKINode Title="properties" Url="html/cbf02ffc-ba6e-d853-4d93-c86df96ba3b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImagesAssignedToRequest property" Url="html/a135d504-3f19-d662-5093-bb7b795b7cb3.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.Id property" Url="html/8ff31275-03e8-bfd1-c20e-60347a9ca5c9.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.Image property" Url="html/5d75fee1-746c-1012-4754-5ffa0c0fca78.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.ImageId property" Url="html/5a742e36-27bb-ed99-8617-4975d2c218b8.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.ImagesAssignedToRequest constructor" Url="html/32e416cc-6a2a-7356-c181-4ba7d0210e7e.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.Request property" Url="html/c77e05a4-1252-2303-cd1e-793b211ebb0b.htm" />
+  <HelpKINode Title="ImagesAssignedToRequest.RequestId property" Url="html/c384f994-95eb-65ed-166e-dd4895b9f33d.htm" />
+  <HelpKINode Title="ImagesController class">
+    <HelpKINode Title="ImagesController Class" Url="html/ce3d6c36-ab22-bc9f-7325-d1f39f92f508.htm" />
+    <HelpKINode Title="constructor" Url="html/7a768b62-77fa-8e8b-b713-7a301fcc75c4.htm" />
+    <HelpKINode Title="methods" Url="html/e71231e0-bcfb-609d-6eca-653413695f67.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ImagesController.Create method" Url="html/6fd138fd-65a4-0672-d38e-9965ca4412e6.htm" />
+  <HelpKINode Title="ImagesController.ImagesController constructor" Url="html/7a768b62-77fa-8e8b-b713-7a301fcc75c4.htm" />
+  <HelpKINode Title="Index method">
+    <HelpKINode Title="AdminUsersController.Index Method " Url="html/3ffa60e4-178d-0b68-5bdf-0725870fbd75.htm" />
+    <HelpKINode Title="ClassificationController.Index Method " Url="html/d7a345d4-ffae-cf81-8c02-4e76015e6b40.htm" />
+    <HelpKINode Title="RequestsController.Index Method " Url="html/1948521a-44f5-9562-5a39-0349ddec7764.htm" />
+    <HelpKINode Title="TeamConfigClassificationsController.Index Method " Url="html/35c34988-d91d-4ac3-60d0-47b06f729e85.htm" />
+    <HelpKINode Title="TeamConfigUsersController.Index Method " Url="html/ca57cef4-19bc-4044-ed66-646a298109f9.htm" />
+    <HelpKINode Title="TeamController.Index Method " Url="html/683ee155-a0cd-794f-1221-987eb19fcb5d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexRequestsAssignedToUser method" Url="html/5ba4d431-6881-aa48-76cb-32a1f649523a.htm" />
+  <HelpKINode Title="IndexRequestsSubmittedByUser method" Url="html/ed38d5ff-de7d-1b98-9836-1cde81af38ea.htm" />
+  <HelpKINode Title="Initialize method">
+    <HelpKINode Title="DBInitializer.Initialize Method " Url="html/2e6f1ba1-a8c5-f3f4-e735-b90e1992b51d.htm" />
+    <HelpKINode Title="IDBInitializer.Initialize Method " Url="html/e543fd35-9fa2-84e8-d35e-3ed5546b37e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InProgress enumeration member" Url="html/2d758c97-04c2-04e5-d294-629870ac32ce.htm" />
+  <HelpKINode Title="ItemsPerPage property" Url="html/f31a436a-3b07-391e-2f01-d8f3f498feed.htm" />
+  <HelpKINode Title="Login method" Url="html/8607866c-df25-5f3c-c4b9-52a5cc08699e.htm" />
+  <HelpKINode Title="LoginController class">
+    <HelpKINode Title="LoginController Class" Url="html/7581908d-8880-faf7-884b-d8edd938cdad.htm" />
+    <HelpKINode Title="constructor" Url="html/52b9b3a7-70f7-67dc-86dd-4ea22c00cd6f.htm" />
+    <HelpKINode Title="methods" Url="html/15ee452e-39dc-29e4-848c-76f4fd25bdfa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginController.Login method" Url="html/8607866c-df25-5f3c-c4b9-52a5cc08699e.htm" />
+  <HelpKINode Title="LoginController.LoginController constructor" Url="html/52b9b3a7-70f7-67dc-86dd-4ea22c00cd6f.htm" />
+  <HelpKINode Title="LoginController.Logout method" Url="html/cab1598f-d9af-4207-d011-d7f2961d3c18.htm" />
+  <HelpKINode Title="LoginViewModel class">
+    <HelpKINode Title="LoginViewModel Class" Url="html/9bfd3a1f-33ec-4bde-a84d-f19df367d446.htm" />
+    <HelpKINode Title="constructor" Url="html/8effb0f7-7960-e69e-7654-f50de3374ff3.htm" />
+    <HelpKINode Title="methods" Url="html/e8c33e70-d721-cfed-d911-4cc36d9d94a0.htm" />
+    <HelpKINode Title="properties" Url="html/ae73f848-ae26-80de-0331-6c13768297b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoginViewModel.LoginViewModel constructor" Url="html/8effb0f7-7960-e69e-7654-f50de3374ff3.htm" />
+  <HelpKINode Title="LoginViewModel.Password property" Url="html/b694a4f9-14b2-beb1-1caa-08da080d0e44.htm" />
+  <HelpKINode Title="LoginViewModel.UserName property" Url="html/48a59c84-80ea-5fcd-9305-7ab964969a73.htm" />
+  <HelpKINode Title="Logout method" Url="html/cab1598f-d9af-4207-d011-d7f2961d3c18.htm" />
+  <HelpKINode Title="Main method" Url="html/c693b56f-42a3-7fea-1ba4-5294b0eea3ea.htm" />
+  <HelpKINode Title="Name property">
+    <HelpKINode Title="ApplicationUser.Name Property " Url="html/fc402d41-c98a-a0b5-4eec-bc2bb867f07c.htm" />
+    <HelpKINode Title="Classification.Name Property " Url="html/281a0756-0950-35b0-4005-052fc64a0072.htm" />
+    <HelpKINode Title="Image.Name Property " Url="html/e0bbb103-c4b9-3aee-5a6a-f00c44ac2d03.htm" />
+    <HelpKINode Title="Team.Name Property " Url="html/2ea0997e-d6d4-1a57-8f42-c90bdfa1670e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="New enumeration member" Url="html/2d758c97-04c2-04e5-d294-629870ac32ce.htm" />
+  <HelpKINode Title="NewPassword property" Url="html/112575d7-30e2-da7d-9030-222e9058ec40.htm" />
+  <HelpKINode Title="NoteAsDbSet class">
+    <HelpKINode Title="NoteAsDbSet Class" Url="html/792fa0fb-21eb-8914-7e5b-fa0f299a9055.htm" />
+    <HelpKINode Title="constructor" Url="html/98b5789c-656e-9d6a-a649-4379cffc33fe.htm" />
+    <HelpKINode Title="methods" Url="html/27cf01ab-913c-f07e-a053-1dab79e0d03d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NoteAsDbSet.BuildTargetModel method" Url="html/40e53343-5790-a40d-cbc2-4e398f2aab33.htm" />
+  <HelpKINode Title="NoteAsDbSet.Down method" Url="html/50d0c714-8ba4-1e56-5dcd-299aa5c155ae.htm" />
+  <HelpKINode Title="NoteAsDbSet.NoteAsDbSet constructor" Url="html/98b5789c-656e-9d6a-a649-4379cffc33fe.htm" />
+  <HelpKINode Title="NoteAsDbSet.Up method" Url="html/6437a610-250a-3326-bbdb-961afee79faf.htm" />
+  <HelpKINode Title="NotesAssignedToRequest class">
+    <HelpKINode Title="NotesAssignedToRequest Class" Url="html/4f1ef7d7-249e-2858-0dd5-0a216eb35ca7.htm" />
+    <HelpKINode Title="constructor" Url="html/662ad3df-d1fe-6be6-a1e4-492bac623531.htm" />
+    <HelpKINode Title="methods" Url="html/e56c323c-c2cd-25bb-0bb8-2f49877ea86e.htm" />
+    <HelpKINode Title="properties" Url="html/1945353a-9929-4dcb-6360-c914667b4072.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NotesAssignedToRequest property" Url="html/cb3ee155-f4d0-20e0-da0f-3274eb84f4dc.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.Id property" Url="html/d6b0df95-abd8-4047-e9cf-32c7e56947f9.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.NotesAssignedToRequest constructor" Url="html/662ad3df-d1fe-6be6-a1e4-492bac623531.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.Request property" Url="html/145c8f93-9c59-0776-c07a-08087f22d347.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.RequestId property" Url="html/6c510512-7dc7-a917-057a-d28f46ac4cac.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.RequestNote property" Url="html/312305d1-aa68-21ce-7b07-fe8c06a15bdb.htm" />
+  <HelpKINode Title="NotesAssignedToRequest.RequestNoteId property" Url="html/46927da1-a760-acd7-51a9-f940019fb53e.htm" />
+  <HelpKINode Title="NoteUser property" Url="html/73cac37f-1aaf-a914-78ad-e31da303ca4b.htm" />
+  <HelpKINode Title="OldPassword property" Url="html/ec1d1d8a-dd1a-9ba1-b948-36457ce2836a.htm" />
+  <HelpKINode Title="PageAction property" Url="html/3c36c43a-e7f8-b3e4-0266-108038183cc2.htm" />
+  <HelpKINode Title="PageClass property" Url="html/531157fe-94fa-37d2-d36f-42ae2bf510f6.htm" />
+  <HelpKINode Title="PageClassesEnabled property" Url="html/8695fbc4-8ad2-5432-75b5-cbfd6f2e5375.htm" />
+  <HelpKINode Title="PageClassNormal property" Url="html/c1233520-367f-8a28-7ac1-3964320c5c31.htm" />
+  <HelpKINode Title="PageClassSelected property" Url="html/1314e167-ba50-646f-5613-e206439d777f.htm" />
+  <HelpKINode Title="PageLinkTagHelper class">
+    <HelpKINode Title="PageLinkTagHelper Class" Url="html/03263d6a-017d-a5a7-8933-d228a1b61b13.htm" />
+    <HelpKINode Title="constructor" Url="html/a86d6959-8959-9389-bd65-c65b4686079c.htm" />
+    <HelpKINode Title="methods" Url="html/0a41bae7-cce7-26fa-53a1-f9996749607e.htm" />
+    <HelpKINode Title="properties" Url="html/35bcd391-84b8-bd11-5bc3-6f306c7cd42c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PageLinkTagHelper.PageAction property" Url="html/3c36c43a-e7f8-b3e4-0266-108038183cc2.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageClass property" Url="html/531157fe-94fa-37d2-d36f-42ae2bf510f6.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageClassesEnabled property" Url="html/8695fbc4-8ad2-5432-75b5-cbfd6f2e5375.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageClassNormal property" Url="html/c1233520-367f-8a28-7ac1-3964320c5c31.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageClassSelected property" Url="html/1314e167-ba50-646f-5613-e206439d777f.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageLinkTagHelper constructor" Url="html/a86d6959-8959-9389-bd65-c65b4686079c.htm" />
+  <HelpKINode Title="PageLinkTagHelper.PageModel property" Url="html/1e5db409-5b43-8d77-40d5-8a305c3441b8.htm" />
+  <HelpKINode Title="PageLinkTagHelper.Process method" Url="html/1c7be27a-3a6a-638e-bd49-387a5f088b6d.htm" />
+  <HelpKINode Title="PageLinkTagHelper.ViewContext property" Url="html/aa3d05b2-6358-7379-511e-684c29b2059b.htm" />
+  <HelpKINode Title="PageModel property" Url="html/1e5db409-5b43-8d77-40d5-8a305c3441b8.htm" />
+  <HelpKINode Title="PageSize field">
+    <HelpKINode Title="AdminUsersController.PageSize Field" Url="html/25189a08-557a-5d37-7329-69056583fa14.htm" />
+    <HelpKINode Title="ClassificationController.PageSize Field" Url="html/c2406d15-b6a8-80c8-4a48-a1a8f64a4e30.htm" />
+    <HelpKINode Title="RequestsController.PageSize Field" Url="html/947b5608-1bf4-0b65-d812-e3bfdc5fec42.htm" />
+    <HelpKINode Title="TeamController.PageSize Field" Url="html/d6a5e964-3699-2e53-a500-c786f80c43ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PagingInfo class">
+    <HelpKINode Title="PagingInfo Class" Url="html/5aa2b902-c3dc-1433-e33f-f37901c612c0.htm" />
+    <HelpKINode Title="constructor" Url="html/2360b06c-996c-0726-141e-14f93b60a394.htm" />
+    <HelpKINode Title="methods" Url="html/81489794-42e3-d1de-0526-4621c0b2504b.htm" />
+    <HelpKINode Title="properties" Url="html/7fa670d5-eb15-5ef0-ec1d-7fb222954468.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PagingInfo property">
+    <HelpKINode Title="ClassificationsListViewModel.PagingInfo Property " Url="html/9a7b7278-a3d5-f294-19d7-e1d5c8ecf0cc.htm" />
+    <HelpKINode Title="RequestsListViewModel.PagingInfo Property " Url="html/aa766fb4-71ab-1152-3482-f0728f0d0d57.htm" />
+    <HelpKINode Title="TeamsListViewModel.PagingInfo Property " Url="html/c4001542-7cfa-306e-9611-331885a14285.htm" />
+    <HelpKINode Title="UsersListViewModel.PagingInfo Property " Url="html/159297ed-dd38-9034-ac28-9f4091514a7d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PagingInfo.CurrentPage property" Url="html/430b590e-cba7-4c66-e069-ded1c60120d3.htm" />
+  <HelpKINode Title="PagingInfo.ItemsPerPage property" Url="html/f31a436a-3b07-391e-2f01-d8f3f498feed.htm" />
+  <HelpKINode Title="PagingInfo.PagingInfo constructor" Url="html/2360b06c-996c-0726-141e-14f93b60a394.htm" />
+  <HelpKINode Title="PagingInfo.TotalItems property" Url="html/7af42079-fa8b-df91-0d21-6f654591570e.htm" />
+  <HelpKINode Title="PagingInfo.TotalPages property" Url="html/7daebb4b-4d60-6865-b2b9-da64d2b1869e.htm" />
+  <HelpKINode Title="PagingInfo.urlParam property" Url="html/dd7421c0-83b0-968d-eef1-ed18f74d1c84.htm" />
+  <HelpKINode Title="Password property" Url="html/b694a4f9-14b2-beb1-1caa-08da080d0e44.htm" />
+  <HelpKINode Title="Process method" Url="html/1c7be27a-3a6a-638e-bd49-387a5f088b6d.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/298b4bdb-7721-f363-5461-2b796921d11f.htm" />
+    <HelpKINode Title="constructor" Url="html/d7293f13-d194-f8c7-8fca-681e786f56b2.htm" />
+    <HelpKINode Title="methods" Url="html/da9b785b-9671-a6d8-3f67-40f865b86a61.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.CreateWebHostBuilder method" Url="html/49cfb833-6ecb-06e9-b1cd-4d4eb57db593.htm" />
+  <HelpKINode Title="Program.Main method" Url="html/c693b56f-42a3-7fea-1ba4-5294b0eea3ea.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/d7293f13-d194-f8c7-8fca-681e786f56b2.htm" />
+  <HelpKINode Title="ReflectionExtension class">
+    <HelpKINode Title="ReflectionExtension Class" Url="html/77316ddb-54da-119e-612b-09ca3a72e275.htm" />
+    <HelpKINode Title="methods" Url="html/20a36f0d-f64a-55b2-691a-3ad98b97c9a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ReflectionExtension.GetPropertyValue(Of T) method" Url="html/3f29ca65-9ce1-b67d-fc5a-aeb9fbae58fc.htm" />
+  <HelpKINode Title="ReflectionExtension.GetPropertyValue&lt;T&gt; method" Url="html/3f29ca65-9ce1-b67d-fc5a-aeb9fbae58fc.htm" />
+  <HelpKINode Title="removePriority class">
+    <HelpKINode Title="removePriority Class" Url="html/8f3b6899-c4e5-a16b-4c67-e1689c63bbf8.htm" />
+    <HelpKINode Title="constructor" Url="html/c429c2af-2cb7-f54f-c5a6-c78c8339396e.htm" />
+    <HelpKINode Title="methods" Url="html/d2e41d17-b893-717f-f64e-9b4c88ba330e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="removePriority.BuildTargetModel method" Url="html/1f18bd81-87f6-4ecc-d1b0-fca975a34001.htm" />
+  <HelpKINode Title="removePriority.Down method" Url="html/5a46dd2b-2e59-4261-8ceb-c3cef9324bdd.htm" />
+  <HelpKINode Title="removePriority.removePriority constructor" Url="html/c429c2af-2cb7-f54f-c5a6-c78c8339396e.htm" />
+  <HelpKINode Title="removePriority.Up method" Url="html/248394c0-1e37-b17a-4fef-d1d3f4d3fb6a.htm" />
+  <HelpKINode Title="Request class">
+    <HelpKINode Title="Request Class" Url="html/309270bd-2647-851f-fd98-66bc8b8cc220.htm" />
+    <HelpKINode Title="constructor" Url="html/877a049f-6ade-a562-af06-fe2cee9e3460.htm" />
+    <HelpKINode Title="methods" Url="html/b345f1ff-aa8e-1973-57c3-8d76ce1c5dab.htm" />
+    <HelpKINode Title="properties" Url="html/24e57212-592b-0805-bb88-392142cefd22.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Request property">
+    <HelpKINode Title="ImagesAssignedToRequest.Request Property " Url="html/c77e05a4-1252-2303-cd1e-793b211ebb0b.htm" />
+    <HelpKINode Title="NotesAssignedToRequest.Request Property " Url="html/145c8f93-9c59-0776-c07a-08087f22d347.htm" />
+    <HelpKINode Title="RequestViewModel.Request Property " Url="html/72420f03-ab51-a298-422f-4020b887e11f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Request.Assignee property" Url="html/f4cdc0d3-6ab0-7bee-c1fb-5009b5036a44.htm" />
+  <HelpKINode Title="Request.AssigneeId property" Url="html/c0a114be-f35b-062a-4192-9bec9f3c2a4b.htm" />
+  <HelpKINode Title="Request.Classification property" Url="html/1319f5ef-ac32-841e-f486-6ea43e081215.htm" />
+  <HelpKINode Title="Request.ClassificationId property" Url="html/fdad5891-ff59-76e5-3b18-0673bb62f2a8.htm" />
+  <HelpKINode Title="Request.ClosedDate property" Url="html/b2162352-ca4c-da13-c5ad-bd6d980135be.htm" />
+  <HelpKINode Title="Request.Content property" Url="html/72addecc-5476-98e0-00ac-78ac29f10e30.htm" />
+  <HelpKINode Title="Request.Id property" Url="html/bfb11ec2-690a-f0c4-3fea-523850aa8068.htm" />
+  <HelpKINode Title="Request.Image property" Url="html/33b26811-6b49-8eae-9fa5-46ad95580c75.htm" />
+  <HelpKINode Title="Request.ImageId property" Url="html/0c837e98-c93f-ee7b-c02b-c0a23aa6cce4.htm" />
+  <HelpKINode Title="Request.Request constructor" Url="html/877a049f-6ade-a562-af06-fe2cee9e3460.htm" />
+  <HelpKINode Title="Request.Requestor property" Url="html/908ed929-de1a-2732-3dcd-6a4b548bce43.htm" />
+  <HelpKINode Title="Request.RequestorId property" Url="html/5f45813b-34bd-3d87-1d0b-14999d990658.htm" />
+  <HelpKINode Title="Request.Status property" Url="html/456aeedb-f527-ca8b-5c5d-71f1f00138eb.htm" />
+  <HelpKINode Title="Request.SubmitDate property" Url="html/bf1fb950-67f8-6a16-ffd3-6f0a701b3d61.htm" />
+  <HelpKINode Title="Request.Team property" Url="html/64d71a85-7041-c8a6-ef11-2c78a9fbbf73.htm" />
+  <HelpKINode Title="Request.TeamId property" Url="html/3fd3e0a6-9a82-2c7d-4424-61473a3ab624.htm" />
+  <HelpKINode Title="Request.Title property" Url="html/76685380-c487-d14d-b95b-b3ff9144064e.htm" />
+  <HelpKINode Title="RequestId property">
+    <HelpKINode Title="ErrorViewModel.RequestId Property " Url="html/451fedfb-fead-1553-e5cf-7e1ba04601f1.htm" />
+    <HelpKINode Title="ImagesAssignedToRequest.RequestId Property " Url="html/c384f994-95eb-65ed-166e-dd4895b9f33d.htm" />
+    <HelpKINode Title="NotesAssignedToRequest.RequestId Property " Url="html/6c510512-7dc7-a917-057a-d28f46ac4cac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNote class">
+    <HelpKINode Title="RequestNote Class" Url="html/df23b920-ce11-cca3-378f-87250f33b06a.htm" />
+    <HelpKINode Title="RequestNote Class" Url="html/1b5da5e4-10d7-aef3-b40a-1f8b6eea2ce8.htm" />
+    <HelpKINode Title="constructor" Url="html/664c00cd-8a89-8cfa-0efa-1d09c7d3e008.htm" />
+    <HelpKINode Title="constructor" Url="html/fcbdf148-9214-79e0-b577-a721c0bd04b9.htm" />
+    <HelpKINode Title="methods" Url="html/851ff769-eb61-51c4-3592-fc6676cf77d1.htm" />
+    <HelpKINode Title="methods" Url="html/03867dee-4986-32d3-491c-9a43e1684ace.htm" />
+    <HelpKINode Title="properties" Url="html/e12b2838-ea11-c2f8-eb9a-6c6d04a0dffa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNote property">
+    <HelpKINode Title="NotesAssignedToRequest.RequestNote Property " Url="html/312305d1-aa68-21ce-7b07-fe8c06a15bdb.htm" />
+    <HelpKINode Title="RequestViewModel.RequestNote Property " Url="html/4f9cc463-1d2c-4f96-fbf3-4c275eae5569.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNote.BuildTargetModel method" Url="html/46e696c7-ab4b-9753-c76a-023599fed531.htm" />
+  <HelpKINode Title="RequestNote.Content property" Url="html/be0e5c57-1e0e-1ad5-d6eb-212ab7f297dc.htm" />
+  <HelpKINode Title="RequestNote.Date property" Url="html/074450d0-48c3-d202-5b3b-d0943dd71cf5.htm" />
+  <HelpKINode Title="RequestNote.Down method" Url="html/2f5c25cc-a2cb-28e5-565a-ef8885a4bc12.htm" />
+  <HelpKINode Title="RequestNote.Id property" Url="html/82df1efe-d29a-785f-6a91-890b2f3e9bd3.htm" />
+  <HelpKINode Title="RequestNote.NoteUser property" Url="html/73cac37f-1aaf-a914-78ad-e31da303ca4b.htm" />
+  <HelpKINode Title="RequestNote.RequestNote constructor">
+    <HelpKINode Title="RequestNote Constructor " Url="html/fcbdf148-9214-79e0-b577-a721c0bd04b9.htm" />
+    <HelpKINode Title="RequestNote Constructor " Url="html/664c00cd-8a89-8cfa-0efa-1d09c7d3e008.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNote.Up method" Url="html/a30ea821-0977-2a44-af9e-4d763fc702c7.htm" />
+  <HelpKINode Title="RequestNoteId property" Url="html/46927da1-a760-acd7-51a9-f940019fb53e.htm" />
+  <HelpKINode Title="RequestNotes property">
+    <HelpKINode Title="ApplicationDbContext.RequestNotes Property " Url="html/c7fe97f1-acbd-4c59-aeba-594c434e48f4.htm" />
+    <HelpKINode Title="RequestViewModel.RequestNotes Property " Url="html/887b61b1-8126-69e0-787c-19529616736b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNotesController class">
+    <HelpKINode Title="RequestNotesController Class" Url="html/d06f1d34-2c6c-a3f9-fd62-eab4aa1fd046.htm" />
+    <HelpKINode Title="constructor" Url="html/f36eaad8-245a-13f8-d9df-86b4894ff4c8.htm" />
+    <HelpKINode Title="methods" Url="html/e661c9f3-0005-fcfb-1556-850a0f81701f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestNotesController.Create method" Url="html/f770cd29-2b30-b6b1-ce39-c7a675f04d5a.htm" />
+  <HelpKINode Title="RequestNotesController.RequestNotesController constructor" Url="html/f36eaad8-245a-13f8-d9df-86b4894ff4c8.htm" />
+  <HelpKINode Title="Requestor enumeration member" Url="html/4621f719-a1db-037f-2a52-9e7647fc76c5.htm" />
+  <HelpKINode Title="Requestor property" Url="html/908ed929-de1a-2732-3dcd-6a4b548bce43.htm" />
+  <HelpKINode Title="RequestorId property" Url="html/5f45813b-34bd-3d87-1d0b-14999d990658.htm" />
+  <HelpKINode Title="Requests property">
+    <HelpKINode Title="ApplicationDbContext.Requests Property " Url="html/f1b85686-006f-7858-63f5-e49ed5f1bedb.htm" />
+    <HelpKINode Title="RequestsListViewModel.Requests Property " Url="html/74ab8791-2f98-ba4c-04f2-cddd43f7f5d7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestsController class">
+    <HelpKINode Title="RequestsController Class" Url="html/a0d8a723-f065-1db4-eb1a-c82641737867.htm" />
+    <HelpKINode Title="constructor" Url="html/794a07f6-c8e3-04ad-32a1-7c7b76c12d9b.htm" />
+    <HelpKINode Title="fields" Url="html/297baede-8c8d-e4f0-71da-79f25baebc49.htm" />
+    <HelpKINode Title="methods" Url="html/12e48a9d-dbf7-c415-d530-2b7be74d0d96.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestsController.Create method" Url="html/bd3c3115-f201-35fb-9f43-b40c8fc6be72.htm" />
+  <HelpKINode Title="RequestsController.Details method" Url="html/40e0d11c-3aa9-32e9-2fb4-90f62e117a28.htm" />
+  <HelpKINode Title="RequestsController.Edit method" Url="html/1f98f771-8093-fae5-91b8-17d3e4457a7d.htm" />
+  <HelpKINode Title="RequestsController.GetAssignee method" Url="html/3cfbd8d5-8834-c643-6486-6d939f27e5c6.htm" />
+  <HelpKINode Title="RequestsController.GetClassification method" Url="html/f804b53b-7781-6a20-db86-a295536d857e.htm" />
+  <HelpKINode Title="RequestsController.Index method" Url="html/1948521a-44f5-9562-5a39-0349ddec7764.htm" />
+  <HelpKINode Title="RequestsController.IndexRequestsAssignedToUser method" Url="html/5ba4d431-6881-aa48-76cb-32a1f649523a.htm" />
+  <HelpKINode Title="RequestsController.IndexRequestsSubmittedByUser method" Url="html/ed38d5ff-de7d-1b98-9836-1cde81af38ea.htm" />
+  <HelpKINode Title="RequestsController.PageSize field" Url="html/947b5608-1bf4-0b65-d812-e3bfdc5fec42.htm" />
+  <HelpKINode Title="RequestsController.RequestsController constructor" Url="html/794a07f6-c8e3-04ad-32a1-7c7b76c12d9b.htm" />
+  <HelpKINode Title="RequestsListViewModel class">
+    <HelpKINode Title="RequestsListViewModel Class" Url="html/598cde66-eade-925c-699b-a89761ff3308.htm" />
+    <HelpKINode Title="constructor" Url="html/dff83d34-f5d7-bbe1-ff78-5fc4ecf2825c.htm" />
+    <HelpKINode Title="methods" Url="html/2313b1c5-417a-3165-eae5-249bb7aa22c4.htm" />
+    <HelpKINode Title="properties" Url="html/4202e949-2a7f-2057-b72e-d1b495ea491d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestsListViewModel.PagingInfo property" Url="html/aa766fb4-71ab-1152-3482-f0728f0d0d57.htm" />
+  <HelpKINode Title="RequestsListViewModel.Requests property" Url="html/74ab8791-2f98-ba4c-04f2-cddd43f7f5d7.htm" />
+  <HelpKINode Title="RequestsListViewModel.RequestsListViewModel constructor" Url="html/dff83d34-f5d7-bbe1-ff78-5fc4ecf2825c.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchAssignee property" Url="html/010f09a7-e62c-b71a-ccba-114466b05af1.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchClassification property" Url="html/01b14441-407c-e7ae-717d-bd48e7abef00.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchRequestor property" Url="html/dfb6bd41-9f90-1cb7-068a-542b7b46b8df.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchStatus property" Url="html/5e787cb0-d8fd-13b8-69aa-08f269078102.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchSubmitDateFrom property" Url="html/3fa1d9f8-6d0d-2a07-254c-2a5372f4d549.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchSubmitDateTo property" Url="html/8d475d12-52ae-f002-8243-f7b5023e5c4c.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchTeam property" Url="html/624c1d78-8b48-debd-ddea-8effcebd7e83.htm" />
+  <HelpKINode Title="RequestsListViewModel.SearchTitle property" Url="html/259f135d-337f-0121-bf70-c77edeceae80.htm" />
+  <HelpKINode Title="RequestStatus enumeration" Url="html/2d758c97-04c2-04e5-d294-629870ac32ce.htm" />
+  <HelpKINode Title="RequestViewModel class">
+    <HelpKINode Title="RequestViewModel Class" Url="html/22c6ddba-07b1-831f-8dc3-0795fea8627a.htm" />
+    <HelpKINode Title="constructor" Url="html/2181da1a-f144-ba99-dd93-bb89751f7f5b.htm" />
+    <HelpKINode Title="methods" Url="html/fd3ce9c8-6846-7b00-30d9-3ce5aa7a380c.htm" />
+    <HelpKINode Title="properties" Url="html/30957c38-68a8-8ded-4cef-b681f242ab9b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RequestViewModel.Assignees property" Url="html/d6df9f8b-138c-aa9a-95f2-e411f5cea976.htm" />
+  <HelpKINode Title="RequestViewModel.Classifications property" Url="html/5a73ab5b-c4bc-21fb-964f-59c6bbc1bb03.htm" />
+  <HelpKINode Title="RequestViewModel.Image property" Url="html/9f32351c-7b23-2bf0-bd0e-f212b3e64ff0.htm" />
+  <HelpKINode Title="RequestViewModel.Images property" Url="html/101fb383-d967-6bc6-6d1e-1bd51a35d502.htm" />
+  <HelpKINode Title="RequestViewModel.Request property" Url="html/72420f03-ab51-a298-422f-4020b887e11f.htm" />
+  <HelpKINode Title="RequestViewModel.RequestNote property" Url="html/4f9cc463-1d2c-4f96-fbf3-4c275eae5569.htm" />
+  <HelpKINode Title="RequestViewModel.RequestNotes property" Url="html/887b61b1-8126-69e0-787c-19529616736b.htm" />
+  <HelpKINode Title="RequestViewModel.RequestViewModel constructor" Url="html/2181da1a-f144-ba99-dd93-bb89751f7f5b.htm" />
+  <HelpKINode Title="RequestViewModel.Teams property" Url="html/66428efd-4cc5-2449-184c-d685258ba632.htm" />
+  <HelpKINode Title="Required class">
+    <HelpKINode Title="Required Class" Url="html/a5d17b1c-2750-418a-582a-ca3c32ebf811.htm" />
+    <HelpKINode Title="constructor" Url="html/52f3e72b-b2ec-dfc2-3af9-27cb7239d9fc.htm" />
+    <HelpKINode Title="methods" Url="html/7df9d3b0-92d7-1c6c-ccb8-b9cb38e8cc0d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Required.BuildTargetModel method" Url="html/b96dc0f1-f8df-ad50-492e-4aa7c8cfdc53.htm" />
+  <HelpKINode Title="Required.Down method" Url="html/037fefa4-cb38-7769-7b49-8453be2c1ba8.htm" />
+  <HelpKINode Title="Required.Required constructor" Url="html/52f3e72b-b2ec-dfc2-3af9-27cb7239d9fc.htm" />
+  <HelpKINode Title="Required.Up method" Url="html/6264a7c3-4ff4-f0fb-67dc-b7c07918bf60.htm" />
+  <HelpKINode Title="Roles property" Url="html/a45c6d61-8c92-1be1-9b99-45c4ad0c3272.htm" />
+  <HelpKINode Title="SearchAssignee property" Url="html/010f09a7-e62c-b71a-ccba-114466b05af1.htm" />
+  <HelpKINode Title="SearchClassification property" Url="html/01b14441-407c-e7ae-717d-bd48e7abef00.htm" />
+  <HelpKINode Title="SearchName property">
+    <HelpKINode Title="ClassificationsListViewModel.SearchName Property " Url="html/0e517781-6104-7029-f25f-78879dc2c3cb.htm" />
+    <HelpKINode Title="TeamsListViewModel.SearchName Property " Url="html/c04594b6-214b-7177-a10d-02ddd67a0c82.htm" />
+    <HelpKINode Title="UsersListViewModel.SearchName Property " Url="html/626b57e7-3f60-7b4a-66c0-686f58008b1c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchRequestor property" Url="html/dfb6bd41-9f90-1cb7-068a-542b7b46b8df.htm" />
+  <HelpKINode Title="SearchRole property" Url="html/36ef0978-540f-6653-a2ee-b821b46535d9.htm" />
+  <HelpKINode Title="SearchStatus property" Url="html/5e787cb0-d8fd-13b8-69aa-08f269078102.htm" />
+  <HelpKINode Title="SearchSubmitDateFrom property" Url="html/3fa1d9f8-6d0d-2a07-254c-2a5372f4d549.htm" />
+  <HelpKINode Title="SearchSubmitDateTo property" Url="html/8d475d12-52ae-f002-8243-f7b5023e5c4c.htm" />
+  <HelpKINode Title="SearchTeam property" Url="html/624c1d78-8b48-debd-ddea-8effcebd7e83.htm" />
+  <HelpKINode Title="SearchTitle property" Url="html/259f135d-337f-0121-bf70-c77edeceae80.htm" />
+  <HelpKINode Title="ServiceDesk namespace" Url="html/411c7f01-e3b1-be78-facf-48f38d420ad4.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers namespace" Url="html/c8301b4c-389d-b7da-6a66-c82edd883d77.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers.AdminUsersController class" Url="html/a7135ad0-9556-33c1-be30-bba888437238.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers.ClassificationController class" Url="html/6e56d6d2-dd0b-9138-9124-9fa93108878d.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers.TeamConfigClassificationsController class" Url="html/a8af5077-82bc-802d-7a6f-72f6f2615243.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers.TeamConfigUsersController class" Url="html/eaae751c-c258-47bb-eaa4-08d2222bdad5.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Admin.Controllers.TeamController class" Url="html/a86e98c0-7263-8023-148a-684616df473d.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Login.Controllers namespace" Url="html/ba5cf1e7-29b7-3f10-066b-52c3a74e2144.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Login.Controllers.ChangePasswordController class" Url="html/cfbc3ef3-6a06-c024-a3d9-970852cc12a0.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.Login.Controllers.LoginController class" Url="html/7581908d-8880-faf7-884b-d8edd938cdad.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.RequestConfig.Controllers namespace" Url="html/addb422f-4793-c8ae-ef67-620e6ebd69aa.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.RequestConfig.Controllers.ImagesController class" Url="html/ce3d6c36-ab22-bc9f-7325-d1f39f92f508.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.RequestConfig.Controllers.RequestNotesController class" Url="html/d06f1d34-2c6c-a3f9-fd62-eab4aa1fd046.htm" />
+  <HelpKINode Title="ServiceDesk.Areas.RequestConfig.Controllers.RequestsController class" Url="html/a0d8a723-f065-1db4-eb1a-c82641737867.htm" />
+  <HelpKINode Title="ServiceDesk.Data namespace" Url="html/8f94b438-4638-7e91-91cb-06712512691a.htm" />
+  <HelpKINode Title="ServiceDesk.Data.ApplicationDbContext class" Url="html/cd02f3f0-256a-4569-ee34-00101ec27610.htm" />
+  <HelpKINode Title="ServiceDesk.Data.DBInitializer class" Url="html/36377f67-b802-68bd-8b73-0bc7c745002b.htm" />
+  <HelpKINode Title="ServiceDesk.Data.IDBInitializer interface" Url="html/3645db8a-7b84-9e3a-4585-36e6e27ed262.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations namespace" Url="html/c260d541-fce1-a7ad-c417-6e294b25315a.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.AdminAssignedToTeam class" Url="html/b0c905d9-849f-cd62-0e8a-95c98c400d32.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.AdminAssignedToTeamCorrectColumns class" Url="html/1e9c8d35-4e29-b9e7-cb27-d5ddceb4b504.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.ApplicationDbContextModelSnapshot class" Url="html/45345e27-1eea-0232-d206-0e0142e54065.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.CreateIdentitySchema class" Url="html/92aa97eb-17df-a8a9-1f3c-875a2345d617.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.DateToDate class" Url="html/bc2e9493-2988-191c-ac8a-05b7e20f8ea0.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.DateToDateNullable class" Url="html/5b4d77b9-a43a-4f48-cfd9-09e5056b4ee9.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.DateToString class" Url="html/3a2fa027-f4aa-c3d3-46a3-46fb6a340412.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.Discriminator class" Url="html/e8e60fb5-b498-a623-f42d-dad0c38b92c7.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.Images class" Url="html/13cb2631-ca22-95cf-bed5-f87bd35704bc.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.NoteAsDbSet class" Url="html/792fa0fb-21eb-8914-7e5b-fa0f299a9055.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.removePriority class" Url="html/8f3b6899-c4e5-a16b-4c67-e1689c63bbf8.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.RequestNote class" Url="html/df23b920-ce11-cca3-378f-87250f33b06a.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.Required class" Url="html/a5d17b1c-2750-418a-582a-ca3c32ebf811.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.timeStamp3 class" Url="html/6ca19f32-5937-0238-1b3f-a54ef4fcd32b.htm" />
+  <HelpKINode Title="ServiceDesk.Data.Migrations.UserNote class" Url="html/46de44d8-356e-715d-a40f-a75d0f216c4c.htm" />
+  <HelpKINode Title="ServiceDesk.Models namespace" Url="html/c14d25da-dcc1-a111-ed38-8748c43847c4.htm" />
+  <HelpKINode Title="ServiceDesk.Models.AdminAssignedToTeam class" Url="html/8d1b6890-f74d-c7d4-1b03-cfd17f8bdfca.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ApplicationUser class" Url="html/34fedb6d-8ab5-f2a1-aef5-069e7a6966de.htm" />
+  <HelpKINode Title="ServiceDesk.Models.Classification class" Url="html/cbc91c14-cfd3-e737-4f89-36a0ae44ce26.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ClassificationAssignedToTeam class" Url="html/65fef364-66fd-4eb6-e2bb-5140772bbf82.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ErrorViewModel class" Url="html/647dd15d-7e9f-488c-d011-4162f2073b14.htm" />
+  <HelpKINode Title="ServiceDesk.Models.Image class" Url="html/5dff6e84-a51d-bf0d-f663-20f73fccfac2.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ImagesAssignedToRequest class" Url="html/b3eb7ec5-65c8-0591-ecc5-ab2eafce69e7.htm" />
+  <HelpKINode Title="ServiceDesk.Models.NotesAssignedToRequest class" Url="html/4f1ef7d7-249e-2858-0dd5-0a216eb35ca7.htm" />
+  <HelpKINode Title="ServiceDesk.Models.PagingInfo class" Url="html/5aa2b902-c3dc-1433-e33f-f37901c612c0.htm" />
+  <HelpKINode Title="ServiceDesk.Models.Request class" Url="html/309270bd-2647-851f-fd98-66bc8b8cc220.htm" />
+  <HelpKINode Title="ServiceDesk.Models.RequestNote class" Url="html/1b5da5e4-10d7-aef3-b40a-1f8b6eea2ce8.htm" />
+  <HelpKINode Title="ServiceDesk.Models.Team class" Url="html/68620256-900f-8e69-99ce-166b24cca6bc.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels namespace" Url="html/d983e1c3-0336-1ec8-eba6-93065d160eef.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.AdminUsersViewModel class" Url="html/854ca69a-c953-1b8a-c91e-ee80c99353d9.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.ChangePasswordViewModel class" Url="html/45022447-a6b0-e54e-e444-0e5c24ae792e.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.ClassificationsListViewModel class" Url="html/438ac45d-949f-b346-ec10-941d242b0e49.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.LoginViewModel class" Url="html/9bfd3a1f-33ec-4bde-a84d-f19df367d446.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.RequestsListViewModel class" Url="html/598cde66-eade-925c-699b-a89761ff3308.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.RequestViewModel class" Url="html/22c6ddba-07b1-831f-8dc3-0795fea8627a.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.TeamConfigClassificationsViewModel class" Url="html/a7233ce8-ca28-323c-a6ab-a010a7c294c9.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.TeamConfigUsersViewModel class" Url="html/b77e32fc-c605-56d9-76ff-8e49cb58b8f9.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.TeamsListViewModel class" Url="html/00d24af7-ebe6-c447-8859-5f819605ac92.htm" />
+  <HelpKINode Title="ServiceDesk.Models.ViewModels.UsersListViewModel class" Url="html/c494ced6-0c40-8824-6919-e4f911cf5067.htm" />
+  <HelpKINode Title="ServiceDesk.Program class" Url="html/298b4bdb-7721-f363-5461-2b796921d11f.htm" />
+  <HelpKINode Title="ServiceDesk.Startup class" Url="html/510238f0-55d1-66f0-9ee7-d1a8a07417c9.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities namespace" Url="html/16cf507c-5a52-64e4-724a-83a1fd569a15.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities.ApplicationUserRoles enumeration" Url="html/4621f719-a1db-037f-2a52-9e7647fc76c5.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities.IEnumerableExtension class" Url="html/4925a7ef-a821-c9ed-feb2-ea97a2773aa5.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities.PageLinkTagHelper class" Url="html/03263d6a-017d-a5a7-8933-d228a1b61b13.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities.ReflectionExtension class" Url="html/77316ddb-54da-119e-612b-09ca3a72e275.htm" />
+  <HelpKINode Title="ServiceDesk.Utilities.RequestStatus enumeration" Url="html/2d758c97-04c2-04e5-d294-629870ac32ce.htm" />
+  <HelpKINode Title="ShowRequestId property" Url="html/3891ed45-4584-eff3-2b1b-01c29affc6e5.htm" />
+  <HelpKINode Title="Startup class">
+    <HelpKINode Title="Startup Class" Url="html/510238f0-55d1-66f0-9ee7-d1a8a07417c9.htm" />
+    <HelpKINode Title="constructor" Url="html/73acaa2f-21cd-e15b-56f5-c55fcd2d108b.htm" />
+    <HelpKINode Title="methods" Url="html/afe925f7-56a0-ac64-28c7-37bb4fb15575.htm" />
+    <HelpKINode Title="properties" Url="html/05bb4114-3c06-8828-7278-0d95ab31abf6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Startup.Configuration property" Url="html/4e4a760c-50c5-0ba3-dd1f-82d2a2d7900f.htm" />
+  <HelpKINode Title="Startup.Configure method" Url="html/39beea28-ff9b-353d-397f-d3bc68ed625b.htm" />
+  <HelpKINode Title="Startup.ConfigureServices method" Url="html/538049a8-b850-40af-fcfe-a1be169e7a0f.htm" />
+  <HelpKINode Title="Startup.Startup constructor" Url="html/73acaa2f-21cd-e15b-56f5-c55fcd2d108b.htm" />
+  <HelpKINode Title="Status property" Url="html/456aeedb-f527-ca8b-5c5d-71f1f00138eb.htm" />
+  <HelpKINode Title="SubmitDate property" Url="html/bf1fb950-67f8-6a16-ffd3-6f0a701b3d61.htm" />
+  <HelpKINode Title="SuperAdmin enumeration member" Url="html/4621f719-a1db-037f-2a52-9e7647fc76c5.htm" />
+  <HelpKINode Title="Team class">
+    <HelpKINode Title="Team Class" Url="html/68620256-900f-8e69-99ce-166b24cca6bc.htm" />
+    <HelpKINode Title="constructor" Url="html/3814141d-2d08-77d1-f436-04ee7a55979c.htm" />
+    <HelpKINode Title="methods" Url="html/3379801a-1028-8190-a794-df5777c58392.htm" />
+    <HelpKINode Title="properties" Url="html/edcb3c20-c265-4561-5c85-5e03c5e69012.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Team property">
+    <HelpKINode Title="AdminAssignedToTeam.Team Property " Url="html/4f7acc1d-33d6-2f35-86e1-4df8356a779f.htm" />
+    <HelpKINode Title="ClassificationAssignedToTeam.Team Property " Url="html/6b541a05-fefd-3419-6510-df17fe95edd1.htm" />
+    <HelpKINode Title="Request.Team Property " Url="html/64d71a85-7041-c8a6-ef11-2c78a9fbbf73.htm" />
+    <HelpKINode Title="TeamConfigClassificationsViewModel.Team Property " Url="html/36e99e62-f527-d595-35d1-523066256630.htm" />
+    <HelpKINode Title="TeamConfigUsersViewModel.Team Property " Url="html/cead3c86-5620-b62e-533e-663a9bcbc753.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Team.Id property" Url="html/56d189e0-fd68-e779-c1ef-2f7fe0bd743c.htm" />
+  <HelpKINode Title="Team.Name property" Url="html/2ea0997e-d6d4-1a57-8f42-c90bdfa1670e.htm" />
+  <HelpKINode Title="Team.Team constructor" Url="html/3814141d-2d08-77d1-f436-04ee7a55979c.htm" />
+  <HelpKINode Title="TeamConfigClassificationsController class">
+    <HelpKINode Title="TeamConfigClassificationsController Class" Url="html/a8af5077-82bc-802d-7a6f-72f6f2615243.htm" />
+    <HelpKINode Title="constructor" Url="html/e651d3e3-f1cc-e0ad-5fd8-ea27f5a60d71.htm" />
+    <HelpKINode Title="methods" Url="html/1206c783-3cc7-5def-a8ff-bc455f15ea0a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamConfigClassificationsController.Add method" Url="html/2b12b4c4-7318-82a0-7bcf-6a4ac8cf784f.htm" />
+  <HelpKINode Title="TeamConfigClassificationsController.DeleteConfirmed method" Url="html/09846230-e785-e7d8-eedd-2d6662b2984d.htm" />
+  <HelpKINode Title="TeamConfigClassificationsController.Index method" Url="html/35c34988-d91d-4ac3-60d0-47b06f729e85.htm" />
+  <HelpKINode Title="TeamConfigClassificationsController.TeamConfigClassificationsController constructor" Url="html/e651d3e3-f1cc-e0ad-5fd8-ea27f5a60d71.htm" />
+  <HelpKINode Title="TeamConfigClassificationsViewModel class">
+    <HelpKINode Title="TeamConfigClassificationsViewModel Class" Url="html/a7233ce8-ca28-323c-a6ab-a010a7c294c9.htm" />
+    <HelpKINode Title="constructor" Url="html/7e5aebdc-a04b-c857-a9ed-a6e0286c359b.htm" />
+    <HelpKINode Title="methods" Url="html/20c78116-2627-0ccf-5558-83b605bb0a58.htm" />
+    <HelpKINode Title="properties" Url="html/88e3be27-f426-26b8-e19f-4cb2eac855d2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamConfigClassificationsViewModel.AllClassifications property" Url="html/8c30f1f8-ccd8-87fd-6460-6b13b5b990c8.htm" />
+  <HelpKINode Title="TeamConfigClassificationsViewModel.ClassificationsAssignedToTeam property" Url="html/3ec88ba4-ab0b-25e8-3304-7ecdf7893d82.htm" />
+  <HelpKINode Title="TeamConfigClassificationsViewModel.Team property" Url="html/36e99e62-f527-d595-35d1-523066256630.htm" />
+  <HelpKINode Title="TeamConfigClassificationsViewModel.TeamConfigClassificationsViewModel constructor" Url="html/7e5aebdc-a04b-c857-a9ed-a6e0286c359b.htm" />
+  <HelpKINode Title="TeamConfigUsersController class">
+    <HelpKINode Title="TeamConfigUsersController Class" Url="html/eaae751c-c258-47bb-eaa4-08d2222bdad5.htm" />
+    <HelpKINode Title="constructor" Url="html/7a07e31d-b4b3-f3b4-d65b-e7dbd7687384.htm" />
+    <HelpKINode Title="methods" Url="html/77b99f14-fa15-9b7d-2c7d-7f490d100783.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamConfigUsersController.Add method" Url="html/d51571e0-f39b-0afe-8c50-a09847161afe.htm" />
+  <HelpKINode Title="TeamConfigUsersController.DeleteConfirmed method" Url="html/d4742619-fc20-70ec-6199-b8425103ebb1.htm" />
+  <HelpKINode Title="TeamConfigUsersController.Index method" Url="html/ca57cef4-19bc-4044-ed66-646a298109f9.htm" />
+  <HelpKINode Title="TeamConfigUsersController.TeamConfigUsersController constructor" Url="html/7a07e31d-b4b3-f3b4-d65b-e7dbd7687384.htm" />
+  <HelpKINode Title="TeamConfigUsersViewModel class">
+    <HelpKINode Title="TeamConfigUsersViewModel Class" Url="html/b77e32fc-c605-56d9-76ff-8e49cb58b8f9.htm" />
+    <HelpKINode Title="constructor" Url="html/5826508b-05ce-9b47-61bd-bf7c9c81af3b.htm" />
+    <HelpKINode Title="methods" Url="html/b0eb9942-3d57-cb4c-9671-701109fbbcb0.htm" />
+    <HelpKINode Title="properties" Url="html/175c30cf-5761-68e4-037e-ec495713134d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamConfigUsersViewModel.AdminsAssignedToTeam property" Url="html/86bf78ab-95e6-d70d-eb98-9936da091ee5.htm" />
+  <HelpKINode Title="TeamConfigUsersViewModel.AllAdmins property" Url="html/5a640ade-45b4-2cfe-3d5a-38374b6711c5.htm" />
+  <HelpKINode Title="TeamConfigUsersViewModel.Team property" Url="html/cead3c86-5620-b62e-533e-663a9bcbc753.htm" />
+  <HelpKINode Title="TeamConfigUsersViewModel.TeamConfigUsersViewModel constructor" Url="html/5826508b-05ce-9b47-61bd-bf7c9c81af3b.htm" />
+  <HelpKINode Title="TeamController class">
+    <HelpKINode Title="TeamController Class" Url="html/a86e98c0-7263-8023-148a-684616df473d.htm" />
+    <HelpKINode Title="constructor" Url="html/f6564e16-24de-b65e-2d19-5c71ce38d847.htm" />
+    <HelpKINode Title="fields" Url="html/7f98fd72-18d4-f3e3-2db0-b2373158891c.htm" />
+    <HelpKINode Title="methods" Url="html/bc0323af-fdd2-fe6e-f937-99025f454d19.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamController.Create method" Url="html/1244f023-a437-dc4d-b9f8-bc6e8c1827b6.htm" />
+  <HelpKINode Title="TeamController.Delete method" Url="html/de935d34-9615-7b5f-0c3a-4558504406f9.htm" />
+  <HelpKINode Title="TeamController.DeleteConfirmed method" Url="html/eed6d3c5-4574-a763-8500-7fa9d7b0a7f0.htm" />
+  <HelpKINode Title="TeamController.Edit method" Url="html/21f6af11-479c-92ab-fd2e-724179c1f8af.htm" />
+  <HelpKINode Title="TeamController.Index method" Url="html/683ee155-a0cd-794f-1221-987eb19fcb5d.htm" />
+  <HelpKINode Title="TeamController.PageSize field" Url="html/d6a5e964-3699-2e53-a500-c786f80c43ac.htm" />
+  <HelpKINode Title="TeamController.TeamController constructor" Url="html/f6564e16-24de-b65e-2d19-5c71ce38d847.htm" />
+  <HelpKINode Title="TeamId property">
+    <HelpKINode Title="AdminAssignedToTeam.TeamId Property " Url="html/bf6c9b84-2625-16b8-767d-397f2b157b15.htm" />
+    <HelpKINode Title="ClassificationAssignedToTeam.TeamId Property " Url="html/24f1d2cd-f485-9da5-dc2d-88e354f4c868.htm" />
+    <HelpKINode Title="Request.TeamId Property " Url="html/3fd3e0a6-9a82-2c7d-4424-61473a3ab624.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Teams property">
+    <HelpKINode Title="ApplicationDbContext.Teams Property " Url="html/efd238f3-63fb-418b-0e89-da205564ad83.htm" />
+    <HelpKINode Title="RequestViewModel.Teams Property " Url="html/66428efd-4cc5-2449-184c-d685258ba632.htm" />
+    <HelpKINode Title="TeamsListViewModel.Teams Property " Url="html/00eb7756-351a-42c9-a4ab-b8ef58ff271b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamsListViewModel class">
+    <HelpKINode Title="TeamsListViewModel Class" Url="html/00d24af7-ebe6-c447-8859-5f819605ac92.htm" />
+    <HelpKINode Title="constructor" Url="html/d57f8c40-c58d-f282-8139-78a52b85a605.htm" />
+    <HelpKINode Title="methods" Url="html/de1cc926-a938-4d7b-6313-931b0f996274.htm" />
+    <HelpKINode Title="properties" Url="html/241ff7b6-372a-8774-153c-289302cb5527.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TeamsListViewModel.PagingInfo property" Url="html/c4001542-7cfa-306e-9611-331885a14285.htm" />
+  <HelpKINode Title="TeamsListViewModel.SearchName property" Url="html/c04594b6-214b-7177-a10d-02ddd67a0c82.htm" />
+  <HelpKINode Title="TeamsListViewModel.Teams property" Url="html/00eb7756-351a-42c9-a4ab-b8ef58ff271b.htm" />
+  <HelpKINode Title="TeamsListViewModel.TeamsListViewModel constructor" Url="html/d57f8c40-c58d-f282-8139-78a52b85a605.htm" />
+  <HelpKINode Title="timeStamp3 class">
+    <HelpKINode Title="timeStamp3 Class" Url="html/6ca19f32-5937-0238-1b3f-a54ef4fcd32b.htm" />
+    <HelpKINode Title="constructor" Url="html/2ad66002-80a6-e08d-c866-ef614e304f66.htm" />
+    <HelpKINode Title="methods" Url="html/b4e6a0bf-92d9-4555-a7b1-e863f0943412.htm" />
+  </HelpKINode>
+  <HelpKINode Title="timeStamp3.BuildTargetModel method" Url="html/e7d06dfa-0b22-8d61-9022-8223a72f19e5.htm" />
+  <HelpKINode Title="timeStamp3.Down method" Url="html/c6c295b9-4310-ee9d-1023-a6345755a6f3.htm" />
+  <HelpKINode Title="timeStamp3.timeStamp3 constructor" Url="html/2ad66002-80a6-e08d-c866-ef614e304f66.htm" />
+  <HelpKINode Title="timeStamp3.Up method" Url="html/691946ff-5159-f6b7-2093-0eca3000ed79.htm" />
+  <HelpKINode Title="Title property" Url="html/76685380-c487-d14d-b95b-b3ff9144064e.htm" />
+  <HelpKINode Title="ToSelectListItem(Of T) method" Url="html/cc7e122e-e804-3e3b-7957-541212540843.htm" />
+  <HelpKINode Title="ToSelectListItem&lt;T&gt; method" Url="html/cc7e122e-e804-3e3b-7957-541212540843.htm" />
+  <HelpKINode Title="ToSelectListItemString(Of T) method" Url="html/3c9605e8-a991-a853-0ca9-772a63f53e27.htm" />
+  <HelpKINode Title="ToSelectListItemString&lt;T&gt; method" Url="html/3c9605e8-a991-a853-0ca9-772a63f53e27.htm" />
+  <HelpKINode Title="TotalItems property" Url="html/7af42079-fa8b-df91-0d21-6f654591570e.htm" />
+  <HelpKINode Title="TotalPages property" Url="html/7daebb4b-4d60-6865-b2b9-da64d2b1869e.htm" />
+  <HelpKINode Title="Up method">
+    <HelpKINode Title="AdminAssignedToTeam.Up Method " Url="html/bad724da-c81a-39b9-7910-6e78f3b56da2.htm" />
+    <HelpKINode Title="AdminAssignedToTeamCorrectColumns.Up Method " Url="html/d063413d-f75b-b646-3949-cf4d9ca44bd9.htm" />
+    <HelpKINode Title="CreateIdentitySchema.Up Method " Url="html/9417ffb0-a1fc-e8e3-6c69-b813b0c14dc5.htm" />
+    <HelpKINode Title="DateToDate.Up Method " Url="html/bf8fa405-a0ee-eb9e-c397-f9231b93a762.htm" />
+    <HelpKINode Title="DateToDateNullable.Up Method " Url="html/1f893db3-2ed5-e3e4-ded1-5c615f3e1afb.htm" />
+    <HelpKINode Title="DateToString.Up Method " Url="html/f3a4e133-7db5-1ddb-33f7-57277dde56c8.htm" />
+    <HelpKINode Title="Discriminator.Up Method " Url="html/63c2aef3-6c8a-8108-861f-cc2b0b42c1af.htm" />
+    <HelpKINode Title="Images.Up Method " Url="html/0d8227c9-7a50-3af3-ba56-a5a7dca3fbf4.htm" />
+    <HelpKINode Title="NoteAsDbSet.Up Method " Url="html/6437a610-250a-3326-bbdb-961afee79faf.htm" />
+    <HelpKINode Title="removePriority.Up Method " Url="html/248394c0-1e37-b17a-4fef-d1d3f4d3fb6a.htm" />
+    <HelpKINode Title="RequestNote.Up Method " Url="html/a30ea821-0977-2a44-af9e-4d763fc702c7.htm" />
+    <HelpKINode Title="Required.Up Method " Url="html/6264a7c3-4ff4-f0fb-67dc-b7c07918bf60.htm" />
+    <HelpKINode Title="timeStamp3.Up Method " Url="html/691946ff-5159-f6b7-2093-0eca3000ed79.htm" />
+    <HelpKINode Title="UserNote.Up Method " Url="html/f07f1fd0-5490-98af-3bdc-7087b00e00c4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="urlParam property" Url="html/dd7421c0-83b0-968d-eef1-ed18f74d1c84.htm" />
+  <HelpKINode Title="UserName property" Url="html/48a59c84-80ea-5fcd-9305-7ab964969a73.htm" />
+  <HelpKINode Title="UserNote class">
+    <HelpKINode Title="UserNote Class" Url="html/46de44d8-356e-715d-a40f-a75d0f216c4c.htm" />
+    <HelpKINode Title="constructor" Url="html/c3ec243b-921f-e218-d003-1fbe3f13fd7e.htm" />
+    <HelpKINode Title="methods" Url="html/e8a96826-9bff-403b-4b21-9e8329f6dc7e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UserNote.BuildTargetModel method" Url="html/49c7f9d5-7a1e-c967-deec-70b15f3ed7a5.htm" />
+  <HelpKINode Title="UserNote.Down method" Url="html/39992042-8274-7713-613b-2318d130bfd2.htm" />
+  <HelpKINode Title="UserNote.Up method" Url="html/f07f1fd0-5490-98af-3bdc-7087b00e00c4.htm" />
+  <HelpKINode Title="UserNote.UserNote constructor" Url="html/c3ec243b-921f-e218-d003-1fbe3f13fd7e.htm" />
+  <HelpKINode Title="Users property" Url="html/2c1cdcf2-d0a9-b10f-3e14-b0374ef14098.htm" />
+  <HelpKINode Title="UsersListViewModel class">
+    <HelpKINode Title="UsersListViewModel Class" Url="html/c494ced6-0c40-8824-6919-e4f911cf5067.htm" />
+    <HelpKINode Title="constructor" Url="html/5e4917b6-ec16-a65e-3276-90a14b51a616.htm" />
+    <HelpKINode Title="methods" Url="html/d1e65f67-c526-0b54-5845-916efce530de.htm" />
+    <HelpKINode Title="properties" Url="html/1e947a9b-0f95-1549-70c9-c21e14e2c6c9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UsersListViewModel.PagingInfo property" Url="html/159297ed-dd38-9034-ac28-9f4091514a7d.htm" />
+  <HelpKINode Title="UsersListViewModel.Roles property" Url="html/a45c6d61-8c92-1be1-9b99-45c4ad0c3272.htm" />
+  <HelpKINode Title="UsersListViewModel.SearchName property" Url="html/626b57e7-3f60-7b4a-66c0-686f58008b1c.htm" />
+  <HelpKINode Title="UsersListViewModel.SearchRole property" Url="html/36ef0978-540f-6653-a2ee-b821b46535d9.htm" />
+  <HelpKINode Title="UsersListViewModel.Users property" Url="html/2c1cdcf2-d0a9-b10f-3e14-b0374ef14098.htm" />
+  <HelpKINode Title="UsersListViewModel.UsersListViewModel constructor" Url="html/5e4917b6-ec16-a65e-3276-90a14b51a616.htm" />
+  <HelpKINode Title="ViewContext property" Url="html/aa3d05b2-6358-7379-511e-684c29b2059b.htm" />
+</HelpKI>
